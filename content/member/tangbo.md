@@ -1,6 +1,6 @@
 +++
 date = "2016-07-12T15:52:22+02:00"
-id = "Bo Tang"
+id = "tangbo"
 interests = ["Data management (i.e., similarity search on high dimensional data, data exploration techniques on multi-dimensional dataset)"]
 name = "Bo Tang"
 portrait = "portraits/tangbo.jpg"
