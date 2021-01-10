@@ -1,4 +1,4 @@
 +++
-title = "DB Group Team"
+title = "DBGroup Team"
 url="/team"
 +++

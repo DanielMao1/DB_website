@@ -14,7 +14,6 @@ cv_link = "https://scholar.google.com/citations?hl=en&user=og0Jsq4AAAAJ"
     icon_pack = "fa"
     link = "tangb3@sustech.edu.cn"
 
-
 [[social]]
     icon = "google-scholar"
     icon_pack = "ai"
@@ -27,7 +26,7 @@ cv_link = "https://scholar.google.com/citations?hl=en&user=og0Jsq4AAAAJ"
 
 [[education]]
     course = "PhD in the Department of Computing"
-    institution = ' Hong Kong Polytechnic University'
+    institution = 'Hong Kong Polytechnic University'
  
 
 [[organizations]]

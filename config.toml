@@ -2,10 +2,10 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://biaslab.github.io"
+baseurl = "10.20.87.51"
 canonifyurls = true
 theme = "academic-group"
-title = "DB Group"
+title = "DBGroup"
 math = true
 copyright = "&copy; DB Group, 2020 "
 enableRobotsTXT = true
@@ -21,21 +21,20 @@ tag = "tags"
 
 [params]
   description = "Website of research group"
-  author = "BIASlab"
+  author = "DBGRoup"
   email = "tangb3@sustech.edu.cn"
  # youtube = "https://www.youtube.com/channel/UCd1ftkOXIQ8MstIHosEDdaw/"
   address = 'Room 1007, A7, iPark No.1088 Xueyuan Blvd., Nanshan District, Shenzhen 518055, P.R. China'
-  slogan = "BIAS<b>LAB</b>"
   slogan_icon = "icon-spsbrats_logo"
-  slogan_text = "DB Group"
+  slogan_text = "DBGroup"
   custom_css = ["biaslab.css"]
-  landing_heading = "DataBase Group"
-  landing_description = "Add some brief description here"
+  landing_heading = ""
+  landing_description = ""
  # landing_description = "Automating the development of novel signal processing and control systems through <span style=\"white-space: nowrap;\">neuro-inspired</span> <span style=\"white-space: nowrap;\">free-energy</span> minimizing agents"
   positions_available = true
 
   [params.logo]
-    image = "img/SUSTech_University_Logo.png"
+    image = "img/DBGroup_logo.jpg"
     link = "https://www.sustech.edu.cn/"
 
   [[params.navbar_hierarchy]]
@@ -44,7 +43,7 @@ tag = "tags"
     position = 1
 
   [[params.navbar_hierarchy]]
-    name = "DB Group"
+    name = "DBGroup"
     link = "/"
     position = 2
 
@@ -52,10 +51,10 @@ tag = "tags"
     name = "Huawei"
     link = "https://www.huawei.com/"
     image = "/own_img/huawei-logo.jpg"
-#  [[params.sponsors]]
-#    name = "GN Resound"
-#    link = "http://www.resound.com/"
-#    image = "/img/sponsors/GNResound.png"
+  [[params.sponsors]]
+    name = "Tencent"
+    link = "http://www.tencent.com.cn"
+    image = "/img/sponsors/tencent.jpg"
 
   # Selected Publications section.
   [params.publications_selected]
@@ -126,6 +125,7 @@ tag = "tags"
 
   [[menu.main]]
     name = "Research"
+    url="/#research"
     weight = 2
     identifier = "research"
 
@@ -186,6 +186,8 @@ tag = "tags"
 
       [[menu.main]]
         name = "About"
-        url = "/about"
+        url = "/About-us-en"
         weight = 8
+
+
 

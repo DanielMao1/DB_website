@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/biaslab-hugo-master.iml" filepath="$PROJECT_DIR$/.idea/biaslab-hugo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DBGroup_web.iml" filepath="$PROJECT_DIR$/.idea/DBGroup_web.iml" />
     </modules>
   </component>
 </project>
