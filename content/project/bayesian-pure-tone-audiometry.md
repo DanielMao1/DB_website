@@ -8,7 +8,7 @@ short_description = "We develop a fully probabilistic approach to pure-tone audi
 title = "Bayesian Pure-tone Audiometry"
 participants_block_position = "down"
 sort_position = 2
-
+draft=true
 [[participants]]
     name = "Marco Cox"
     id = "marco"

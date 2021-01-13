@@ -6,7 +6,7 @@ name = "Dan Zeng"
 portrait = "portraits/zengdan.jpg"
 short_bio = "Group Leader"
 title = "Dan Zeng"
-sort_position = 2
+sort_position = 3
 personal_website = "https://www.danzeng.org/about/"
 cv_link = "https://scholar.google.nl/citations?user=mr_5iXsAAAAJ&hl=en"
 [[social]]

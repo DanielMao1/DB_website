@@ -8,7 +8,7 @@ short_description = "We want to provide a hearing impaired patient with the best
 title = "Probabilistic Hearing Loss Compensation"
 participants_block_position = "down"
 sort_position = 4
-
+draft=true
 [[participants]]
     name = "Thijs van de Laar"
     position = 1

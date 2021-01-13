@@ -1,4 +1,5 @@
 +++
+
 date = "2020-05-22T14:45:00+02:00"
 external_link = ""
 project_id = "ai-park"
@@ -8,7 +9,7 @@ short_description = "In order to assess the feasibility of active inference as a
 title = "Learning Where to Park by Active Inference"
 participants_block_position = "down"
 sort_position = 1
-
+draft=true
 [[participants]]
     name = "Burak Ergul"
     id = "burak"

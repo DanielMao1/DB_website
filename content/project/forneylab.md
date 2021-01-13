@@ -8,7 +8,7 @@ short_description = "ForneyLab is a novel Julia package that allows the user to 
 title = "ForneyLab: a Julia Toolbox for Factor Graph-Based Probabilistic Programming"
 participants_block_position = "down"
 sort_position = 1
-
+draft= true
 [[participants]]
     name = "Thijs van de Laar"
     id = "thijs"

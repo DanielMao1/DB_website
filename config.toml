@@ -115,13 +115,13 @@ tag = "tags"
     name = "Publications"
     url = "/#publications"
     parent="research"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
-    name = "Starter's guide"
-    url = "/research/starter-guide"
-    parent="Join us"
-    weight = 3
+    name = "Join Us"
+    url = "/Join-us-en"
+
+    weight = 6
 
   [[menu.main]]
     name = "Research"
@@ -144,7 +144,13 @@ tag = "tags"
   [[menu.main]]
     name = "Team"
     url = "/#members"
-    weight = 5
+    weight = 4
+
+    [languages.en]
+      languageCode = "en-us"
+
+    [languages.zh]
+      languageCode = "zh-cn"
 
 #  [[menu.main]]
 #    name = "Software"
@@ -182,7 +188,7 @@ tag = "tags"
   [[menu.main]]
     name = "Teaching"
     url = "http://mooc1.chaoxing.com/course/214395507.html"
-    weight = 2
+    weight = 3
 
       [[menu.main]]
         name = "About"

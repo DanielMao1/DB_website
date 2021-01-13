@@ -8,7 +8,7 @@ description = "Gesture recognition enables a natural extension of the way we cur
 title = "A Probabilistic Modeling Approach to In-situ Trainable Gesture Recognition"
 participants_block_position = "down"
 sort_position = 3
-
+draft=true
 
 [[participants]]
     name = "Anouk van Diepen"
