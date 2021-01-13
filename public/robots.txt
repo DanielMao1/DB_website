@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: 10.20.87.51/sitemap.xml

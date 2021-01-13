@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic-group">
+
+    
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="10.20.87.51/js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="10.20.87.51/css/bootstrap.min.css">
+    <script src="10.20.87.51/js/bootstrap.min.js"></script>  
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
+    
+    
+    <script src="10.20.87.51/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel="stylesheet" href="10.20.87.51/css/font-awesome.min.css">
+    <link rel="stylesheet" href="10.20.87.51/css/academicons.min.css">
+    <link rel="stylesheet" href="10.20.87.51/css/biaslab-font.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
+    <link rel="stylesheet" href="10.20.87.51/css/hugo-academic-group.css">
+
+    
+    <link rel="stylesheet" href="10.20.87.51/css/biaslab.css">
+    
+
+
+    <link rel="shortcut icon" href="10.20.87.51/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="10.20.87.51/project/a-probabilistic-approach-to-in-situ-trainable-gesture-recognition/">
+
+    <title>A Probabilistic Modeling Approach to In-situ Trainable Gesture Recognition | DBGroup</title>
+
+</head>
+
+<body>
+<div class="home-anchor" id="home"></div>
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="https://www.sustech.edu.cn/">
+                        <img src="10.20.87.51/img/DBGroup_logo.jpg" alt="University logo"></img>
+                    </a>
+                
+                
+                 
+                     
+                        
+                            <a href="http://cse.sustech.edu.cn/">CSE</a>
+                            /
+                        
+                    
+                    
+                        <a href="10.20.87.51/">DBGroup</a>
+                    
+    
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="10.20.87.51/#home">Home</a></li>
+                    
+                
+                        
+                        
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              
+                                <li><a href="10.20.87.51/#projects">Projects</a></li>
+                              
+                                <li><a href="10.20.87.51/#publications">Publications</a></li>
+                              
+                                <li><a href="10.20.87.51/#posts">Blog</a></li>
+                              
+                            </ul>
+                          </li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://mooc1.chaoxing.com/course/214395507.html">Teaching</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="10.20.87.51/#members">Team</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="10.20.87.51/#contact">Contact</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="10.20.87.51/about-us-en">About</a></li>
+                    
+                
+                        
+                        
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join us <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              
+                                <li><a href="10.20.87.51/research/starter-guide">Starter&#39;s guide</a></li>
+                              
+                            </ul>
+                          </li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        <h1 itemprop="name">A Probabilistic Modeling Approach to In-situ Trainable Gesture Recognition</h1>
+        
+        
+
+        
+
+        <div class="article-style" itemprop="articleBody">
+            <h2 id="problem-statement">Problem Statement</h2>
+<p>Gesture recognition, i.e., the recognition of pre-defined gestures by arm or hand movements, enables a natural extension of the way we currently interact with devices. With the increasing amount of human-machine interactions, alternative user interfaces will become more important.
+Commercially available gesture recognition systems are usually pre-trained: the developers specify a set of gestures, and the user is provided with an algorithm that can recognize just these gestures. In order to improve the user experience, it is often desirable to allow users to define their own gestures. In that case, the user needs to train the recognition system herself by performing a set of example gestures. Crucially, this scenario requires learning gestures from just a few training examples in order to avoid overburdening the user.</p>
+<p>The first step towards an in-situ trainable gesture recognition system is to create an <em>in-situ trainable gesture classifier</em>.</p>
+<h2 id="methods-and-solution-proposal">Methods and Solution Proposal</h2>
+<p>Our proposed gesture classifier is based on Bayesian hidden Markov models. The general idea behind using hidden Markov models is that the measured direction of the arm can be mapped onto discrete states. Instead of saving the discrete states, the algorithm learns the so-called transition probabilities between the states. A transition probability can be viewed as the probability that the arm will go from one direction to another; in other words, it corresponds to the probability of a movement. These transition probabilities are unique for each distinguishable type (class) of gestures. Therefore, when the algorithm learns the transition probabilities for all gesture types, it can later evaluate the probability that a new measurement had been generated by a specific class. This concept has already been successfully applied to gesture recognition in the past. Our contribution is that we use Bayesian hidden Markov models as the basis of our hierarchical model. This allows us to <strong>incorporate prior information about gestures</strong>, in the form of a prior probability distribution over the transition probabilities. The probabilities for a specific gesture class can then be learned by combining the prior information and the measurements (see Figure 1). When constructed properly, this prior distribution might capture general properties of gestures, which might help to learn gestures by fewer training examples.</p>
+<img src="10.20.87.51/img/projects/ISTG/hierarchicalmodel.png" width="500px">
+<h2 id="results">Results</h2>
+<p>We collected a gesture database using a <a href="https://www.myo.com/">Myo sensor bracelet</a> (see Figure 2). The database contains 17 different gesture classes, each performed 20 times by the same user. The duration of the measurements was fixed to 3 seconds.</p>
+<img src="10.20.87.51/img/projects/ISTG/myobracelet.jpg" width="500px">
+<p>The gesture database was split into a training set containing 5 samples of every gesture class, and a test set containing the remaining (15x7=) 255 samples.</p>
+<p>As a measure of performance we used the <em>recognition rate</em>, which is the number of correctly classified recordings divided by the total number of recordings.
+To test the influence of the constructed prior distribution, we have also evaluated the algorithm with an uninformative prior distribution. As a baseline we used the recognition rate of a 1-Nearest Neighbor classifier (1-NN).</p>
+<img src="10.20.87.51/img/projects/ISTG/RR_results2.png" width="500px">
+<p>Figure 3 shows the recognition rates of all algorithms. Both hidden Markov based algorithms feature a higher recognition rate than the 1-NN algorithm. In view of our interest for in-situ training of the gesture classifier, we are especially interested in classifier performance as a function of number of training examples. In particular for one training example (one-shot training), the hidden Markov model with learned prior distribution clearly outperforms both alternative models.</p>
+<div class="video-wrapper">
+    <div class="embed video-player">
+        <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/o2V_wVBPIS0" allowfullscreen frameborder="0">
+        </iframe>
+    </div>
+</div>
+
+        </div>
+    
+        
+        <h3>Participants</h3>
+        <div id="participants"> 
+            <div class="container">
+                <div class="row">
+                    
+                
+
+                
+                    
+
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+
+
+                     
+                         
+                     
+
+                     
+                
+                    
+
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+
+
+                     
+                         
+                     
+
+                     
+                
+                    
+
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+
+
+                     
+                         
+                     
+
+                     
+                
+
+
+               
+                </div>
+            </div>
+        </div>
+        
+     </article>
+    
+   <nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="10.20.87.51/project/bayesian-pure-tone-audiometry/">
+                <span aria-hidden="true" class="darknav">&larr;&nbsp;Previous project:</span>
+                Bayesian Pure-tone Audiometry
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="10.20.87.51/project/forneylab/">
+                <span class="darknav">&nbsp;Next project:</span>
+                ForneyLab: a Julia Toolbox for Factor Graph-Based Probabilistic Programming
+                <span aria-hidden="true" class="darknav">&rarr;</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            © DB Group, 2020 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+</body>
+</html>
+

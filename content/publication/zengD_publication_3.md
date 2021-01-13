@@ -15,16 +15,17 @@ url_pdf = "https://www.danzeng.org/publications/2019ICB.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+
 [[authors]]
-​	name = "Dan Zeng"
-​	id = "zengdan"
+	name = "Dan Zeng"
+
 [[authors]]
-​	name = "Raymond Veldhuis"
-​	id = "raymond"   
+	name = "Raymond Veldhuis"
+
 [[authors]]
-​	name = "Luuk Spreeuwers"
-​	id = "luuk"
+	name = "Luuk Spreeuwers"
+
 [[authors]]
-​	name = "Qijun Zhao"
-​	id = "zhaoqijun"
+	name = "Qijun Zhao"
+	
 +++

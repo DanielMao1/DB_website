@@ -17,14 +17,14 @@ url_slides = ""
 url_video = ""
 [[authors]]
     name = "Feng Liu"
-    id = "liufeng"
+
 [[authors]]
-​	name = "Qijun Zhao"
-​	id = "zhaoqijun"
+	name = "Qijun Zhao"
+
 [[authors]]
-​	name = "Xiaoming Liu"
-​	id = "liuxiaoming"  
+	name = "Xiaoming Liu"
+  
 [[authors]]
-​	name = "Dan Zeng"
-​	id = "zengdan"
+	name = "Dan Zeng"
+
 +++

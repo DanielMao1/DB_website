@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on DBGroup</title>
+    <link>10.20.87.51/project/</link>
+    <description>Recent content in Projects on DBGroup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; DB Group, 2020 </copyright>
+    <lastBuildDate>Fri, 22 May 2020 14:45:00 +0200</lastBuildDate><atom:link href="10.20.87.51/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV Direction</title>
+      <link>10.20.87.51/project/project_model_zengd/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>10.20.87.51/project/project_model_zengd/</guid>
+      <description>Reserach Project I - 2D Face recognition and 3D Face Modeling Face recognition has been one of the most challenging and active research topics in computer vision and pattern recognition for several decades. Meanwhile, as one of the most commonly used biometric recognition technique, it is widely applied in the domains of national security, social security, finance, etc. In recent years, face recognition techniques under uncontrolled environment have achieved remarkable progress.</description>
+    </item>
+    
+    <item>
+      <title>Large-scale Similarity Search Direction</title>
+      <link>10.20.87.51/project/large-scale-similarity-search/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>10.20.87.51/project/large-scale-similarity-search/</guid>
+      <description>Large-scale Similarity Search Similarity search is the task that finds the items that are most similar to a query in a large collection of items. Similarity search is a common task in data science with many applications including recommendation, image search, document retrieval and entity resolution. Many famous companies are devoted to researches on similarity search, e.g., Google, Microsoft and Facebook. However, efficient similarity search is challenging due to large dataset cardinality (e.</description>
+    </item>
+    
+    <item>
+      <title>Visualization Direction</title>
+      <link>10.20.87.51/project/project_model_vis/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>10.20.87.51/project/project_model_vis/</guid>
+      <description>Efficient and effective data visualization Spatial-temporal visualization techniques have been applied in various real-world applications and assist the data exploration by leveraging the sharp perception of human analysts. However, large data visualization is challenging. 1) The long data to visualization latency (query time, computing time and rendering time) always break the continuity of the human involved data exploration loop; 2) visual clutter caused by a large amount of data hinders the ability of the human to discover the insight.</description>
+    </item>
+    
+  </channel>
+</rss>

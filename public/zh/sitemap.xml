@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>10.20.87.51/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="10.20.87.51/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="10.20.87.51/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="10.20.87.51/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="10.20.87.51/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="10.20.87.51/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="10.20.87.51/zh/tags/"
+                />
+  </url>
+  
+</urlset>

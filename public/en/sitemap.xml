@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>10.20.87.51/member/zhangchaozu/</loc>
+    <lastmod>2021-01-05T16:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/</loc>
+    <lastmod>2021-01-05T16:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="10.20.87.51/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="10.20.87.51/"
+                />
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/team/</loc>
+    <lastmod>2021-01-05T16:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/lizelin/</loc>
+    <lastmod>2020-12-31T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/fuweibao/</loc>
+    <lastmod>2020-12-30T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/liqian/</loc>
+    <lastmod>2020-12-20T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/maozunyao/</loc>
+    <lastmod>2020-09-01T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/ningwentao_publication_1/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/project/project_model_zengd/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/project/large-scale-similarity-search/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/project/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/project/project_model_vis/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/kemingli/</loc>
+    <lastmod>2020-01-29T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/yan-xiao_member_model/</loc>
+    <lastmod>2020-01-29T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tang2019pvldb/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tangsigir2019/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/teaching/aip-5ssb0/</loc>
+    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/teaching/bmlip-2019/</loc>
+    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/teaching/bmlip/</loc>
+    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/teaching/</loc>
+    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tang2018pvldb/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/join-us-en/</loc>
+    <lastmod>2018-07-19T08:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/research/starter-guide/</loc>
+    <lastmod>2018-07-19T08:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/research/</loc>
+    <lastmod>2018-07-19T08:50:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tangsigmod2017/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tb_publication_test_1/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tansigmod2017_2/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tb_publication_test_2/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tangedbt2017/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tb_publication_test_3/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/alumni/zengxinxun/</loc>
+    <lastmod>2016-09-14T11:45:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/alumni/</loc>
+    <lastmod>2016-09-14T11:45:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/huangbo/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/tangbo/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/zengd/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/liuhaotian/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/luanwendi/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/ningwentao/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/youzhengxin/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tangtkde2016/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/tangicde2015/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_9/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/about/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/about-us-en/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="10.20.87.51/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="10.20.87.51/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_2/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_4/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/liuenhuai/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_6/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_10/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/zhangjiashu/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_7/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_1/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_3/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_5/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/wushangxuan/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="10.20.87.51/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="10.20.87.51/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/wangteng/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/sunting/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/publication/zengd_publication_8/</loc>
+  </url>
+  
+  <url>
+    <loc>10.20.87.51/member/jixiang/</loc>
+  </url>
+  
+</urlset>

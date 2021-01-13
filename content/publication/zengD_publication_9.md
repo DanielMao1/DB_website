@@ -16,15 +16,15 @@ url_project = ""
 url_slides = ""
 url_video = ""
 [[authors]]
-​	name = "Dan Zeng"
-​	id = "zengdan"
+	name = "Dan Zeng"
+
 [[authors]]
     name = "Shuqin Long"
-    id = "longshuqin"
+
 [[authors]]
 	name = "Jing Li"
-    id = "lijing" 
+
 [[authors]]
-​    name = "Qijun Zhao"
-​    id = "zhaoqijun"
+    name = "Qijun Zhao"
+
 +++

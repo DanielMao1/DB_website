@@ -16,18 +16,18 @@ url_project = ""
 url_slides = ""
 url_video = ""
 [[authors]]
-​	name = "Feng Liu"
-​	id = "liufeng"
+	name = "Feng Liu"
+
 [[authors]]
-​	name = "Ronghang Zhu"
-​	id = "zhuronghang"   
+	name = "Ronghang Zhu"
+
 [[authors]]
-​	name = "Dan Zeng"
-​	id = "zengdan"
+	name = "Dan Zeng"
+
 [[authors]]
-​	name = "Qijun Zhao"
-​	id = "zhaoqijun"
+	name = "Qijun Zhao"
+
 [[authors]]
-​	name = "Xiaoming Liu"
-​	id = "liuxiaoming" 
+	name = "Xiaoming Liu"
+
 +++

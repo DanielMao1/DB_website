@@ -15,16 +15,13 @@ url_pdf = "https://www.danzeng.org/publications/2015ICB.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+
 [[authors]]
-​    name = "Jing Li"
-​    id = "lijing"
+    name = "Jing Li"
 [[authors]]
-​    name = "Shuqin Long"
-​    id = "longshuqin"
+    name = "Shuqin Long"
 [[authors]]
-​    name = "Dan Zeng"
-​    id = "zengdan"
+    name = "Dan Zeng"
 [[authors]]
-​    name = "Qijun Zhao"
-​    id = "zhaoqijun"
+    name = "Qijun Zhao"
 +++
