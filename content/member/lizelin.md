@@ -6,7 +6,7 @@ name = "Zelin Li"
 portrait = "portraits/lizelin.jpg"
 short_bio = "I am a BSc student in the Database Group at Southern University of Science and Technology working on face image super-resolution."
 title = "Zelin Li"
-sort_position = 3
+sort_position = 4
 personal_website = ""
 [[social]]
     icon = "envelope"

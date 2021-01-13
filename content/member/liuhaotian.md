@@ -7,7 +7,7 @@ portrait = "portraits/刘昊天.jpg"
 short_bio = "Group Member"
 title = "Haotian Liu"
 personal_website = "haotianliu.cn"
-sort_position = 3
+sort_position = 4
 
 [[social]]
     icon = "github"

@@ -135,11 +135,11 @@ tag = "tags"
     parent = "research"
     weight = 2
 
-  [[menu.main]]
-    name = "Blog"
-    url = "/#posts"
-    parent = "research"
-    weight = 4
+#  [[menu.main]]
+#    name = "Blog"
+#    url = "/#posts"
+#    parent = "research"
+#    weight = 4
 
   [[menu.main]]
     name = "Team"

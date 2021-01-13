@@ -1,6 +1,7 @@
 +++
 date = "2020-05-22T14:45:00+02:00"
-description = "CV Direction"
+title = "CV Direction"
+picture = "projects/CV/images.jpg"
 
 +++
 

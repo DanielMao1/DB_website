@@ -2,7 +2,7 @@
 date = "2020-09-01T15:52:22+02:00" 
 id = "maozunyao" 
 interests = ["Query Processing", "Big Data System"] 
-name = "毛尊尧" 
+name = "Zunyao Mao" 
 portrait = "portraits/maozunyao.jpg" 
 short_bio = "what is this" 
 title = "maozunyao" 
@@ -30,4 +30,4 @@ sort_position = 6
     role = "Undergraduate Student"
 +++
 
-My name is Mao Zunyao and I am a undergraduate junior student of Southern University of Science and Technology.I am now working on system direction, and implementing a GPU-integrated distributed system now.
+My name is Mao Zunyao and I am a undergraduate junior student of Southern University of Science and Technology. I am now working on system direction, and implementing a GPU-integrated distributed system.
