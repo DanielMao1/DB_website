@@ -33,7 +33,7 @@ cv_link = "https://scholar.google.nl/citations?user=mr_5iXsAAAAJ&hl=en"
     institution = 'Sichuan University'
 
 [[organizations]]
-    name = "Department of Computer Science and Engineering, Southern University of Science and Technology"
+    name = "Department of Computer Science and Engineering"
     role = "Research Assistant Professor"
 
 +++

@@ -1,6 +1,6 @@
 +++
 date = "2020-01-29T15:52:22+02:00"
-id = "YanXiao"
+id = "Yan Xiao"
 interests = ["Information Retrieval"]
 name = "YanXiao"
 portrait = "portraits/YanXiao.jpg"
