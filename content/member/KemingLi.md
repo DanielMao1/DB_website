@@ -6,7 +6,7 @@ name = "KemingLi"
 portrait = "portraits/likeming.jpg"
 short_bio = "Master Student"
 title = "Keming Li"
-sort_position = 9
+sort_position = 5
 personal_website = ""
 cv_link = ""
 [[social]]

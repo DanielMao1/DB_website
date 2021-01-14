@@ -6,7 +6,7 @@ name = "Bo Huang"
 portrait = "portraits/huangbo.png"
 short_bio = "Group Member"
 title = "Bo Huang"
-sort_position = 100
+sort_position = 5
 personal_website = ""
 cv_link = ""
 [[social]]

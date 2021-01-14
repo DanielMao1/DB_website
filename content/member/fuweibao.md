@@ -20,8 +20,7 @@ cv_link = ""
     institution = "Southern University of Science and Technology"
 
 [[organizations]]
-    name = "Department of Computer Science and Engineering"
-    role = "Undergraduate"
+    role = "Undergraduate (SUSTech)"
 
 +++
 Weibao Fu is an undergraduate student in Database Group in Southern University of Science and Technology, who is following tutor Bo Tang and Dan Zen. He is awarded *the First Class of the Merit Student Scholarship* for two consecutive years (2019 and 2020).  The current research direction is the super-resolution on face images and there is a paper submitting in CVPR *Face Super-Resolution with Highway for High Frequency Signal*.

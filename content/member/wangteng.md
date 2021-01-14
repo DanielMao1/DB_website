@@ -6,7 +6,7 @@ name = "Teng Wang"
 portrait = "portraits/wangteng.jpg"
 short_bio = "PostGraduate Student"
 title = "Teng Wang"
-sort_position = 4
+sort_position = 5
 personal_website = ""
 cv_link = ""
 

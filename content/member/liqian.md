@@ -6,7 +6,7 @@ name = "Qian Li"
 portrait = "portraits/liqian.jpg"
 short_bio = "Group Leader"
 title = "Qian Li"
-sort_position = 11
+sort_position = 5
 personal_website = ""
 cv_link = ""
 [[social]]

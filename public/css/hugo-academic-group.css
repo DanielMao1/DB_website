@@ -250,8 +250,8 @@ span.darknav {
 
 .portrait {
     background-image: url('../img/portraits/portrait.jpg');
-    width: 250px;
-    height: 280px;
+    width: 200px;
+    height: 250px;
     margin: 0 auto ;
     border-radius: 50%;
     background-size: cover;
