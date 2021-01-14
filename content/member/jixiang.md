@@ -6,7 +6,7 @@ name = "Xiang Ji"
 portrait = "portraits/jixiang.jpg"
 short_bio = "PostGraduate Student"
 title = "Xiang Ji"
-sort_position = 10
+sort_position = 5
 personal_website = ""
 cv_link = ""
 [[social]]
