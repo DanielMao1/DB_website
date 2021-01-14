@@ -1,7 +1,10 @@
 +++
 date = "2020-05-22T14:45:00+02:00"
 title = "CV Direction"
+
 picture = "projects/CV/images.jpg"
+description="CV description"
+short_description = "CV short description"
 
 +++
 
