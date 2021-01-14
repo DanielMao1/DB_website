@@ -2,7 +2,7 @@
 date = "2020-01-29T15:52:22+02:00"
 id = "YanXiao"
 interests = ["Information Retrieval"]
-name = "YanXiao"
+name = "Yan Xiao"
 portrait = "portraits/YanXiao.jpg"
 short_bio = "Professor"
 title = "Yan Xiao"
