@@ -35,7 +35,7 @@ tag = "tags"
 
   [params.logo]
     image = "img/DBGroup_logo.jpg"
-    link = "https://www.sustech.edu.cn/"
+    url = "/#home"
 
   [[params.navbar_hierarchy]]
     name = "CSE"
@@ -64,6 +64,8 @@ tag = "tags"
 
   # Publications section.
   # Section will only be displayed if there are publications in `content/publication/`.
+  [params.members]
+    count = 8
   [params.publications]
     count = 5
     detailed_list = false
@@ -119,7 +121,7 @@ tag = "tags"
 
   [[menu.main]]
     name = "Join Us"
-    url = "/Join-us-en"
+    url = "/Join-us"
 
     weight = 6
 
@@ -135,50 +137,13 @@ tag = "tags"
     parent = "research"
     weight = 2
 
-#  [[menu.main]]
-#    name = "Blog"
-#    url = "/#posts"
-#    parent = "research"
-#    weight = 4
 
   [[menu.main]]
     name = "Team"
     url = "/#members"
     weight = 4
 
-    [languages.en]
-      languageCode = "en-us"
 
-    [languages.zh]
-      languageCode = "zh-cn"
-
-#  [[menu.main]]
-#    name = "Software"
-#    weight = 3
-#    identifier = "software"
-#
-#  [[menu.main]]
-#    name = "ForneyLab.jl"
-#    url = "https://biaslab.github.io/ForneyLab.jl/stable/"
-#    parent = "software"
-#    weight = 1
-#
-#  [[menu.main]]
-#    name = "Rocket.jl"
-#    url = "https://biaslab.github.io/Rocket.jl/stable"
-#    parent = "software"
-#    weight = 2
-
-#  [[menu.main]]
-#    name = "Join us"
-#    url = "#open-projects"
-#    weight = 6
-#    identifier="joinus"
-
-#  [[menu.main]]
-#    name = "Open projects"
-#    url = "/open-projects"
-#    parent = "joinus"
 
   [[menu.main]]
     name = "Contact"
@@ -192,7 +157,123 @@ tag = "tags"
 
       [[menu.main]]
         name = "About"
-        url = "/About-us-en"
+        url = "/About-us"
+        weight = 8
+
+[Languages]
+[Languages.en]
+languageName = "English"
+contentDir= "content/english"
+weight=1
+
+##
+## the below is Chinese translation content
+[Languages.zh]
+languageName = "简体中文"
+contentDir= "content/chinese"
+weight=2
+[Languages.zh.params]
+  address = '中国广东省深圳市南山区学苑大道1088号南山智园A7栋1007'
+  [Languages.zh.params.publications_selected]
+    detailed_list = true
+    title = "代表文章"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [Languages.zh.params.publications]
+    count = 5
+    detailed_list = false
+    title = "发表作品"
+    subtitle = ""
+    str_all = "More Publications"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [Languages.zh.params.posts]
+    count = 2
+    title = "博客"
+    subtitle = ""
+    str_all = "更多"
+    str_read_more = "更多"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [Languages.zh.params.projects]
+    title = "项目"
+    subtitle = ""
+    count = 3
+    str_all = "更多"
+
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+#  [params.open_projects]
+#    title = "Open projects"
+#    subtitle = ""
+#    count = 3
+#    str_all = "All open projects"
+
+  # Contact section.
+
+  [Languages.zh.params.contact]
+    enable = true
+    title = "联系方式"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[Languages.zh.menu.main]]
+    name = "主页"
+    url = "/zh/#home"
+    weight = 1
+
+  [[Languages.zh.menu.main]]
+    name = "发表作品"
+    url = "/zh/#publications"
+    parent="research"
+    weight = 2
+
+  [[Languages.zh.menu.main]]
+    name = "加入我们"
+    url = "/zh/Join-us"
+
+    weight = 6
+
+  [[Languages.zh.menu.main]]
+    name = "研究"
+    url="/zh/#research"
+    weight = 2
+    identifier = "research"
+
+  [[Languages.zh.menu.main]]
+    name = "项目"
+    url = "/zh/#projects"
+    parent = "research"
+    weight = 2
+
+
+  [[Languages.zh.menu.main]]
+    name = "团队成员"
+    url = "/zh/#members"
+    weight = 4
+
+
+
+  [[Languages.zh.menu.main]]
+    name = "Contact"
+    url = "/zh/#contact"
+    weight = 7
+
+  [[Languages.zh.menu.main]]
+    name = "教学"
+    url = "http://mooc1.chaoxing.com/course/214395507.html"
+    weight = 3
+
+      [[Languages.zh.menu.main]]
+        name = "关于"
+        url = "/zh/About-us"
         weight = 8
 
 

@@ -4,7 +4,7 @@
 <div class="container">
     <h1>Team</h1>
     {{ range (sort .Data.Pages ".Params.sort_position") }}
-            {{partial "member_li" .}}
+    {{partial "member_li" .}}
     {{ end }}
 </div>
 
@@ -14,7 +14,7 @@
 <div class="container">
     <h1>Alumni</h1>
     {{ range where .Site.RegularPages "Section" "alumni" }}
-        {{ partial "alumni_li" . }}
+    {{ partial "alumni_li" . }}
     {{ end }}
 </div>
 

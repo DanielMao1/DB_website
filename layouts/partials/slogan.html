@@ -18,6 +18,11 @@
 
 <header class="space-below ">
       <div class="header-content">
-        {{partial "banner.html" .}}
+            {{ if eq .Lang "zh"}}
+            {{partial "banner2.html" .}}
+            {{else}}
+
+            {{partial "banner.html" .}}
+            {{end}}
       </div>
 </header>

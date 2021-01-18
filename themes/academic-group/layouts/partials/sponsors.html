@@ -2,7 +2,11 @@
 <div class="container">
     <div class="row sponsors">
         <div class="col-md-12">
-            <p>Our industry cooperators</p>
+            {{if eq .Lang "zh"}}
+            <h2>合作伙伴:</h2>
+            {{else}}
+            <h2>Industry Cooperators:</h2>
+            {{end}}
         </div>
     </div>
     <div class="row sponsors">
