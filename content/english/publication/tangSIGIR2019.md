@@ -18,5 +18,4 @@ url_video = ""
 
 [[authors]]
     name = "Bo Tang"
-    id = "tangbo"
 +++

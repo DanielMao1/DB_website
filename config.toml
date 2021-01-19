@@ -49,12 +49,12 @@ tag = "tags"
 
   [[params.sponsors]]
     name = "Huawei"
-    link = "https://www.huawei.com/"
-    image = "/own_img/huawei-logo.jpg"
-  [[params.sponsors]]
-    name = "Tencent"
-    link = "http://www.tencent.com.cn"
-    image = "/img/sponsors/tencent.jpg"
+    link = "https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb"
+    image = "/own_img/huawei.jpg"
+#  [[params.sponsors]]
+#    name = "Tencent"
+#    link = "http://www.tencent.com.cn"
+#    image = "/img/sponsors/tencent.jpg"
 
   # Selected Publications section.
   [params.publications_selected]
