@@ -28,7 +28,11 @@
         <div>
             <p class="view-all">
                 <a href="{{ .Site.BaseURL }}/team/{{if .Site.Params.uglyURLs}}index.html{{end}}">
-                    Full team
+                    {{if eq .Lang "zh"}}
+                    全部成员
+                    {{else}}
+                    Full Team
+                    {{end}}
                     <i class="fa fa-angle-double-right"></i>
                 </a>
             </p>
