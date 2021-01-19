@@ -5,15 +5,15 @@ name = "武尚萱"
 portrait = "portraits/wushangxuan.jpg"
 short_bio = ""
 title = "武尚萱"
-sort_position = 6
-personal_website = ""(没有可以保留<=“”>，或者删除这一项)
+sort_position = 10
+personal_website = ""
 cv_link = ""
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "11811535@mail.sustech.edu.cn"
 
-[[social]]   (没有可以留空<=“”>，或者删除这一项)
+[[social]]  
     icon = "google-scholar"
     icon_pack = "ai"
     link = ""
