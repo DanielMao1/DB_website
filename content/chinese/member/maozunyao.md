@@ -22,7 +22,7 @@ sort_position = 10
 
 [[education]] 
     course = "计算机科学与技术" 
-    institution = '南方科技大学y' 
+    institution = '南方科技大学' 
     year = 2018
 
 [[organizations]] 
