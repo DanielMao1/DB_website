@@ -2,10 +2,10 @@
 date = "2020-09-01T15:52:22+02:00" 
 id = "maozunyao" 
 interests = ["Query Processing", "Big Data System"] 
-name = "Zunyao Mao" 
+name = "毛尊尧" 
 portrait = "portraits/maozunyao.jpg" 
-short_bio = "Group Member" 
-title = "maozunyao" 
+short_bio = "系统组团队成员" 
+title = "毛尊尧" 
 sort_position = 10
 
 [[social]] 
@@ -21,13 +21,12 @@ sort_position = 10
 
 
 [[education]] 
-    course = "BSc. in Computer Science and Technology" 
-    institution = 'Southern University of Science and Technology' 
+    course = "计算机科学与技术" 
+    institution = '南方科技大学y' 
     year = 2018
 
 [[organizations]] 
-    name = "Southern University of Science and Technology" 
-    role = "Undergraduate Student"
+    role = "南方科技大学(本科生)"
 +++
 
-My name is Mao Zunyao and I am a undergraduate junior student of Southern University of Science and Technology. I am now working on system direction, and implementing a GPU-integrated distributed system.
+毛尊尧，南方科技大学本科生，今年大三。目前我参与的是GPU加速大数据仓库HIVE和执行引擎TEZ的相关工作。
