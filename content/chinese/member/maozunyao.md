@@ -4,7 +4,7 @@ id = "maozunyao"
 interests = ["Query Processing", "Big Data System"] 
 name = "Zunyao Mao" 
 portrait = "portraits/maozunyao.jpg" 
-short_bio = "what is this" 
+short_bio = "Group Member" 
 title = "maozunyao" 
 sort_position = 10
 

@@ -12,7 +12,9 @@ At present, the team has developed more than 30 members, including one assistant
 
 The main research directions of the team include big data analysis system, large-scale information retrieval, information visualization and computer vision.
 
-The research achievement of DBgroup have been published in top database conferences and journals (SIGMOD, PVLDB, TKDE, etc.). The main research objectives of dbgroup are: (1) to improve the existing algorithms to achieve order of magnitude performance improvement; (2) to build a new system to achieve a breakthrough from scratch.
+The research achievement of DBgroup have been published in top database conferences and journals (SIGMOD, PVLDB, TKDE, etc.). The main research objectives of dbgroup are:
+ - to improve the existing algorithms to achieve order of magnitude performance improvement; 
+ - to build a new system to achieve a breakthrough from scratch.
 
 In recent three years, the research achievements of undergraduate students of the research group have been published in several CCF-A conferences, such as PVLDB, ICDE, SIGIR, etc. The undergraduate students of the research group rank among the top 5 in the world in the 2020 SIGMOD programming contest. The undergraduates of the research group have been awarded the Top Ten Graduates of Southern University of Science and Technology for two consecutive years.
 
