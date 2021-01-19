@@ -28,6 +28,6 @@ cv_link = ""
     institution = "南方科技大学"
 
 [[organizations]]
-    role = "学生"
+    role = "南方科技大学(本科生)"
 
 +++
