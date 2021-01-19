@@ -160,18 +160,21 @@ tag = "tags"
         url = "/About-us"
         weight = 8
 
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
 [Languages]
 [Languages.en]
 languageName = "English"
 contentDir= "content/english"
-weight=1
+weight=2
 
 ##
 ## the below is Chinese translation content
 [Languages.zh]
 languageName = "简体中文"
 contentDir= "content/chinese"
-weight=2
+weight=1
 [Languages.zh.params]
   address = '中国广东省深圳市南山区学苑大道1088号南山智园A7栋1007'
   [Languages.zh.params.publications_selected]
@@ -186,7 +189,7 @@ weight=2
     detailed_list = false
     title = "发表作品"
     subtitle = ""
-    str_all = "More Publications"
+    str_all = "更多作品"
 
   # Posts section.
   # Section will only be displayed if there are posts in `content/post/`.
@@ -275,6 +278,7 @@ weight=2
         name = "关于"
         url = "/zh/About-us"
         weight = 8
+
 
 
 
