@@ -1,7 +1,7 @@
 +++
 date = "2016-07-12T15:52:22+02:00"
 id = "zengdan"
-interests = ["Biometrics (i.e., 2D face recognition, 3D face reconstruction), Medical Biometrics (i.e., Retina Recognition), and Computer vision (i.e., face super resolution)"]
+interests = ["Computer vision (i.e., face super resolution), Biometrics (i.e., 2D face recognition, 3D face reconstruction), and Medical Biometrics (i.e., Retina Recognition) "]
 name = "Dan Zeng"
 portrait = "portraits/zengdan.jpg"
 short_bio = "Group Leader"
@@ -33,7 +33,7 @@ cv_link = "https://scholar.google.nl/citations?user=mr_5iXsAAAAJ&hl=en"
     institution = 'Sichuan University'
 
 [[organizations]]
-    name = "Department of Computer Science and Engineering"
+    name = "Department of Computer Science and Engineering, Southern University of Science and Technology"
     role = "Research Assistant Professor"
 
 +++
