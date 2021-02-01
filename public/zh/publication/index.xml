@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on DBGroup</title>
+    <link>https://danielmao1.github.io/zh/publication/</link>
+    <description>Recent content in Publications on DBGroup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; DB Group, 2020 </copyright>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://danielmao1.github.io/zh/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CheetahVIS: A Visual Analytical System for Large Urban Bus Data</title>
+      <link>https://danielmao1.github.io/zh/publication/ningwentao_publication_1/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/ningwentao_publication_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Top Ranking Options in the Continuous Option and Preference Space</title>
+      <link>https://danielmao1.github.io/zh/publication/tang2019pvldb/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tang2019pvldb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Exact Inner Product Retrieval by CPU-GPU Systems</title>
+      <link>https://danielmao1.github.io/zh/publication/tangsigir2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangsigir2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Processing of Uncertain Top-k Queries in Multi-criteria Settings</title>
+      <link>https://danielmao1.github.io/zh/publication/tang2018pvldb/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tang2018pvldb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the Impact Regions of Competing Options in Preference Space</title>
+      <link>https://danielmao1.github.io/zh/publication/tangsigmod2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangsigmod2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the Impact Regions of Competing Options in Preference Space</title>
+      <link>https://danielmao1.github.io/zh/publication/tb_publication_test_1/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tb_publication_test_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Top-K Insights from Multi-dimensional Data</title>
+      <link>https://danielmao1.github.io/zh/publication/tansigmod2017_2/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tansigmod2017_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Top-K Insights from Multi-dimensional Data</title>
+      <link>https://danielmao1.github.io/zh/publication/tb_publication_test_2/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tb_publication_test_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance</title>
+      <link>https://danielmao1.github.io/zh/publication/tangedbt2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangedbt2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance.</title>
+      <link>https://danielmao1.github.io/zh/publication/tb_publication_test_3/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tb_publication_test_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploit Every Bit: Effective Caching for High-Dimensional Nearest Neighbor Search</title>
+      <link>https://danielmao1.github.io/zh/publication/tangtkde2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangtkde2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversified Caching for Replicated Web Search Engines</title>
+      <link>https://danielmao1.github.io/zh/publication/tangicde2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangicde2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach to Mugshot Based Arbitrary View Face Recognition</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined training strategy for low-resolution face recognition with limited applicationspecific data</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examplar Coherent 3D Face Reconstruction from Forensic Mugshot Database</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example-Based 3D Face Reconstruction from Uncalibrated Frontal and Profile Images</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Face Alignment and 3D Face Reconstruction</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Likelihood Ratio based Loss to finetune CNNs for Very Low Resolution Face Verification</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On 3D face reconstruction via cascaded regression in shape space</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards resolution invariant face recognition in uncontrolled scenarios</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

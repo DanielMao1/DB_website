@@ -2,10 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DBGroup</title>
-    <link>10.20.87.51/categories/</link>
+    <link>https://danielmao1.github.io/categories/</link>
     <description>Recent content in Categories on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; DB Group, 2020 </copyright><atom:link href="10.20.87.51/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; DB Group, 2020 </copyright><atom:link href="https://danielmao1.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

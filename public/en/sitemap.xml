@@ -3,323 +3,880 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>10.20.87.51/member/zhangchaozu/</loc>
-    <lastmod>2021-01-05T16:52:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/</loc>
-    <lastmod>2021-01-05T16:52:22+02:00</lastmod>
+    <loc>https://danielmao1.github.io/</loc>
+    <lastmod>2021-01-14T15:52:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="10.20.87.51/zh/"
+                href="https://danielmao1.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="10.20.87.51/"
+                href="https://danielmao1.github.io/"
                 />
   </url>
   
   <url>
-    <loc>10.20.87.51/team/</loc>
+    <loc>https://danielmao1.github.io/team/</loc>
+    <lastmod>2021-01-14T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/team/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/caojiaping_en/</loc>
+    <lastmod>2021-01-14T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/zhangchaozu/</loc>
     <lastmod>2021-01-05T16:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>10.20.87.51/member/lizelin/</loc>
+    <loc>https://danielmao1.github.io/member/lizelin/</loc>
     <lastmod>2020-12-31T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>10.20.87.51/member/fuweibao/</loc>
+    <loc>https://danielmao1.github.io/member/yinpeiqi/</loc>
     <lastmod>2020-12-30T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>10.20.87.51/member/liqian/</loc>
+    <loc>https://danielmao1.github.io/member/fuweibao/</loc>
+    <lastmod>2020-12-30T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/liqian/</loc>
     <lastmod>2020-12-20T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>10.20.87.51/member/maozunyao/</loc>
+    <loc>https://danielmao1.github.io/member/maozunyao/</loc>
     <lastmod>2020-09-01T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/maozunyao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/maozunyao/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/ningwentao_publication_1/</loc>
+    <loc>https://danielmao1.github.io/publication/ningwentao_publication_1/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/ningwentao_publication_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/ningwentao_publication_1/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/</loc>
+    <loc>https://danielmao1.github.io/publication/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/project/project_model_zengd/</loc>
+    <loc>https://danielmao1.github.io/project/project_model_zengd/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/project/project_model_zengd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/project/project_model_zengd/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/project/large-scale-similarity-search/</loc>
+    <loc>https://danielmao1.github.io/project/large-scale-similarity-search/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/project/large-scale-similarity-search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/project/large-scale-similarity-search/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/project/</loc>
+    <loc>https://danielmao1.github.io/project/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/project/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/project/project_model_vis/</loc>
+    <loc>https://danielmao1.github.io/project/project_model_vis/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/project/project_model_vis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/project/project_model_vis/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/member/kemingli/</loc>
+    <loc>https://danielmao1.github.io/member/zengjian/</loc>
     <lastmod>2020-01-29T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>10.20.87.51/member/yan-xiao_member_model/</loc>
+    <loc>https://danielmao1.github.io/member/kemingli/</loc>
     <lastmod>2020-01-29T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/kemingli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/kemingli/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tang2019pvldb/</loc>
+    <loc>https://danielmao1.github.io/member/yan-xiao_member_model/</loc>
+    <lastmod>2020-01-29T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/yan-xiao_member_model/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/yan-xiao_member_model/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/tang2019pvldb/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tang2019pvldb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tang2019pvldb/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tangsigir2019/</loc>
+    <loc>https://danielmao1.github.io/publication/tangsigir2019/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tangsigir2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tangsigir2019/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/teaching/aip-5ssb0/</loc>
+    <loc>https://danielmao1.github.io/teaching/aip-5ssb0/</loc>
     <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/teaching/aip-5ssb0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/teaching/aip-5ssb0/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/teaching/bmlip-2019/</loc>
+    <loc>https://danielmao1.github.io/teaching/bmlip-2019/</loc>
     <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/teaching/bmlip-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/teaching/bmlip-2019/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/teaching/bmlip/</loc>
+    <loc>https://danielmao1.github.io/teaching/bmlip/</loc>
     <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/teaching/bmlip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/teaching/bmlip/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/teaching/</loc>
+    <loc>https://danielmao1.github.io/teaching/</loc>
     <lastmod>2018-08-23T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/teaching/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tang2018pvldb/</loc>
+    <loc>https://danielmao1.github.io/publication/tang2018pvldb/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tang2018pvldb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tang2018pvldb/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/join-us-en/</loc>
+    <loc>https://danielmao1.github.io/join-us/</loc>
     <lastmod>2018-07-19T08:50:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/join-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/join-us/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/research/starter-guide/</loc>
+    <loc>https://danielmao1.github.io/research/starter-guide/</loc>
     <lastmod>2018-07-19T08:50:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/research/starter-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/research/starter-guide/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/research/</loc>
+    <loc>https://danielmao1.github.io/research/</loc>
     <lastmod>2018-07-19T08:50:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/research/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tangsigmod2017/</loc>
+    <loc>https://danielmao1.github.io/publication/tangsigmod2017/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tangsigmod2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tangsigmod2017/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tb_publication_test_1/</loc>
+    <loc>https://danielmao1.github.io/publication/tb_publication_test_1/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tb_publication_test_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tb_publication_test_1/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tansigmod2017_2/</loc>
+    <loc>https://danielmao1.github.io/publication/tansigmod2017_2/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tansigmod2017_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tansigmod2017_2/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tb_publication_test_2/</loc>
+    <loc>https://danielmao1.github.io/publication/tb_publication_test_2/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tb_publication_test_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tb_publication_test_2/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tangedbt2017/</loc>
+    <loc>https://danielmao1.github.io/publication/tangedbt2017/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tangedbt2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tangedbt2017/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tb_publication_test_3/</loc>
+    <loc>https://danielmao1.github.io/publication/tb_publication_test_3/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tb_publication_test_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tb_publication_test_3/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/alumni/zengxinxun/</loc>
-    <lastmod>2016-09-14T11:45:56+02:00</lastmod>
+    <loc>https://danielmao1.github.io/member/huangbo/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/huangbo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/huangbo/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/alumni/</loc>
-    <lastmod>2016-09-14T11:45:56+02:00</lastmod>
+    <loc>https://danielmao1.github.io/member/tangbo/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/tangbo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/tangbo/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/member/huangbo/</loc>
+    <loc>https://danielmao1.github.io/member/zengd/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/zengd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/zengd/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/liuhaotian/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/liuhaotian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/liuhaotian/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/lulan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>10.20.87.51/member/tangbo/</loc>
+    <loc>https://danielmao1.github.io/member/hanmingji/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/hanmingji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/hanmingji/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/luanwendi/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/luanwendi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/luanwendi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/ningwentao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>10.20.87.51/member/zengd/</loc>
+    <loc>https://danielmao1.github.io/member/youzhengxin/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/youzhengxin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/youzhengxin/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/member/liuhaotian/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/member/luanwendi/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/member/ningwentao/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/member/youzhengxin/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/tangtkde2016/</loc>
+    <loc>https://danielmao1.github.io/publication/tangtkde2016/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/tangtkde2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/tangtkde2016/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/tangicde2015/</loc>
+    <loc>https://danielmao1.github.io/publication/tangicde2015/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_9/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/about/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/about-us-en/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="10.20.87.51/zh/categories/"
+                href="https://danielmao1.github.io/zh/publication/tangicde2015/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="10.20.87.51/categories/"
+                href="https://danielmao1.github.io/publication/tangicde2015/"
                 />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/zengd_publication_2/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_4/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/member/liuenhuai/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_6/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_10/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/member/zhangjiashu/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_7/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_1/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_3/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/publication/zengd_publication_5/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/member/wushangxuan/</loc>
-  </url>
-  
-  <url>
-    <loc>10.20.87.51/tags/</loc>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_9/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="10.20.87.51/zh/tags/"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="10.20.87.51/tags/"
+                href="https://danielmao1.github.io/publication/zengd_publication_9/"
                 />
   </url>
   
   <url>
-    <loc>10.20.87.51/member/wangteng/</loc>
+    <loc>https://danielmao1.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/about/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/member/sunting/</loc>
+    <loc>https://danielmao1.github.io/about-us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/about-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/about-us/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/publication/zengd_publication_8/</loc>
+    <loc>https://danielmao1.github.io/alumni/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/alumni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/alumni/"
+                />
   </url>
   
   <url>
-    <loc>10.20.87.51/member/jixiang/</loc>
+    <loc>https://danielmao1.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/liuenhuai/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/liuenhuai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/liuenhuai/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_6/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_10/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_10/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/zhangjiashu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/zhangjiashu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/zhangjiashu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_7/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_7/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/wushangxuan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/wushangxuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/wushangxuan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/wangteng/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/sunting/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/sunting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/sunting/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/publication/zengd_publication_8/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/publication/zengd_publication_8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/publication/zengd_publication_8/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/jiangwen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/jixiang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://danielmao1.github.io/zh/member/jixiang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielmao1.github.io/member/jixiang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/linzhiyuan_en/</loc>
   </url>
   
 </urlset>

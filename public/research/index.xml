@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches on DBGroup</title>
-    <link>10.20.87.51/research/</link>
+    <link>https://danielmao1.github.io/research/</link>
     <description>Recent content in Researches on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <copyright>&amp;copy; DB Group, 2020 </copyright>
-    <lastBuildDate>Thu, 19 Jul 2018 08:50:58 +0200</lastBuildDate><atom:link href="10.20.87.51/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jul 2018 08:50:58 +0200</lastBuildDate><atom:link href="https://danielmao1.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join DBGroup</title>
-      <link>10.20.87.51/research/starter-guide/</link>
+      <link>https://danielmao1.github.io/research/starter-guide/</link>
       <pubDate>Thu, 19 Jul 2018 08:50:58 +0200</pubDate>
       
-      <guid>10.20.87.51/research/starter-guide/</guid>
+      <guid>https://danielmao1.github.io/research/starter-guide/</guid>
       <description>Introduction (Introduction here)
 Research (Research Description here)
 Mission Methodology Expectations and Deliverables Workflow and Tools </description>

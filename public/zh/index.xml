@@ -2,10 +2,536 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DBGroup</title>
-    <link>10.20.87.51/zh/</link>
+    <link>https://danielmao1.github.io/zh/</link>
     <description>Recent content on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>&amp;copy; DB Group, 2020 </copyright><atom:link href="10.20.87.51/zh/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; DB Group, 2020 </copyright>
+    <lastBuildDate>Mon, 18 Jan 2021 15:52:22 +0200</lastBuildDate><atom:link href="https://danielmao1.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>张超祖</title>
+      <link>https://danielmao1.github.io/zh/member/zhang_chaozu/</link>
+      <pubDate>Mon, 18 Jan 2021 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/zhang_chaozu/</guid>
+      <description>(这里是详细的个人简介) 张超祖是DBGroup 2017级本科生，大二暑期进入DBGroup，现在在申博士的带领和指导下，重点关注在大规模轨迹数据的采样和可视化研究。</description>
+    </item>
+    
+    <item>
+      <title>王腾</title>
+      <link>https://danielmao1.github.io/zh/member/wang_teng_zh/</link>
+      <pubDate>Sat, 16 Jan 2021 12:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/wang_teng_zh/</guid>
+      <description>(这里是详细的个人简介)</description>
+    </item>
+    
+    <item>
+      <title>曹嘉平</title>
+      <link>https://danielmao1.github.io/zh/member/caojiaping_zn/</link>
+      <pubDate>Thu, 14 Jan 2021 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/caojiaping_zn/</guid>
+      <description>曹嘉平目前在读于香港理工大学计算机系博士生项目，导师Dr. Ken Yiu。他也是SUSTech DBGroup下Flink系统组的一员。</description>
+    </item>
+    
+    <item>
+      <title>黎泽林</title>
+      <link>https://danielmao1.github.io/zh/member/li_zelin_zh/</link>
+      <pubDate>Thu, 31 Dec 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/li_zelin_zh/</guid>
+      <description>我叫黎泽林,是南方科技大学大四计算机系在读本科生,我目前主要的研究方向是人脸图像超分辨率.</description>
+    </item>
+    
+    <item>
+      <title>Peiqi Yin</title>
+      <link>https://danielmao1.github.io/zh/member/yin_peiqi_zh/</link>
+      <pubDate>Wed, 30 Dec 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/yin_peiqi_zh/</guid>
+      <description>尹沛骐是一个在南方科技大学DBgroup学习的本科生，跟随导师唐博。他是南方科技大学ACM集训队成员并且对算法感兴趣。他曾经获得过ICPC（上海）2020银牌，CCPC（秦皇岛）2020银牌，GMCPC（粤澳程序设计竞赛）2020金牌，ICPC（徐州）2019最快解题奖。</description>
+    </item>
+    
+    <item>
+      <title>毛尊尧</title>
+      <link>https://danielmao1.github.io/zh/member/maozunyao/</link>
+      <pubDate>Tue, 01 Sep 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/maozunyao/</guid>
+      <description>毛尊尧，南方科技大学本科生，今年大三。目前我参与的是GPU加速大数据仓库HIVE和执行引擎TEZ的相关工作。</description>
+    </item>
+    
+    <item>
+      <title>CheetahVIS: A Visual Analytical System for Large Urban Bus Data</title>
+      <link>https://danielmao1.github.io/zh/publication/ningwentao_publication_1/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/ningwentao_publication_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV Direction</title>
+      <link>https://danielmao1.github.io/zh/project/project_model_zengd/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/project/project_model_zengd/</guid>
+      <description>Reserach Project I - 2D Face recognition and 3D Face Modeling Face recognition has been one of the most challenging and active research topics in computer vision and pattern recognition for several decades. Meanwhile, as one of the most commonly used biometric recognition technique, it is widely applied in the domains of national security, social security, finance, etc. In recent years, face recognition techniques under uncontrolled environment have achieved remarkable progress.</description>
+    </item>
+    
+    <item>
+      <title>Visualization Direction</title>
+      <link>https://danielmao1.github.io/zh/project/project_model_vis/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/project/project_model_vis/</guid>
+      <description>Efficient and effective data visualization Spatial-temporal visualization techniques have been applied in various real-world applications and assist the data exploration by leveraging the sharp perception of human analysts. However, large data visualization is challenging. 1) The long data to visualization latency (query time, computing time and rendering time) always break the continuity of the human involved data exploration loop; 2) visual clutter caused by a large amount of data hinders the ability of the human to discover the insight.</description>
+    </item>
+    
+    <item>
+      <title>大规模相似性检索</title>
+      <link>https://danielmao1.github.io/zh/project/large-scale-similarity-search/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/project/large-scale-similarity-search/</guid>
+      <description>相似性检索是指对于一个给定的查询，在包含众多物品的数据集中，找出与其最相似物品的任务。相似性检索是数据处理中最常见的操作之一，有着包括推荐、图片检索、文件检索和实体识别在内的众多应用。由于其广泛的应用，包括Google, Microsoft 和Facebook在内的众多公司都在开展相似性检索研究。但高效相似性检索面临着诸多挑战——数据集的规模很大，可以包含上亿个高维向量；检索对处理时延和结果质量的要求都很高，例如在10ms内召回率达到0.9. 在这个课题下，我们将从以下方面开展研究：
+ 设计针对不同相似性度量的检索算法，包括欧氏距离，内积，编辑距离等； 利用先进硬件进行相似性检索，例如GPU, SSD 和NVM； 横跨多台服务器的分布式相似性检索； 用机器学习技术改善相似性检索算法。  </description>
+    </item>
+    
+    <item>
+      <title>Keming Li</title>
+      <link>https://danielmao1.github.io/zh/member/kemingli/</link>
+      <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/kemingli/</guid>
+      <description>KemingLi received the bachelor&amp;rsquo;s Degree in the Computer Science Department of Southern University of Science and Technology. He had a internship at Huawei Telecommunications equipment company as a developer.</description>
+    </item>
+    
+    <item>
+      <title>Yan Xiao</title>
+      <link>https://danielmao1.github.io/zh/member/yan-xiao_member_model/</link>
+      <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/yan-xiao_member_model/</guid>
+      <description>Dr. Yan Xiao received his Ph.D. degree from The Chinese University of Hong Kong under the supervision of Professor James Cheng.</description>
+    </item>
+    
+    <item>
+      <title>宁文韬</title>
+      <link>https://danielmao1.github.io/zh/member/ning_wentao_zh/</link>
+      <pubDate>Tue, 14 Jan 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/ning_wentao_zh/</guid>
+      <description>南方科技大学-香港大学联合培养博士生，研究方向为基于知识图谱的推荐系统算法。</description>
+    </item>
+    
+    <item>
+      <title>Creating Top Ranking Options in the Continuous Option and Preference Space</title>
+      <link>https://danielmao1.github.io/zh/publication/tang2019pvldb/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tang2019pvldb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Exact Inner Product Retrieval by CPU-GPU Systems</title>
+      <link>https://danielmao1.github.io/zh/publication/tangsigir2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangsigir2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Information Processing (5SSB0)</title>
+      <link>https://danielmao1.github.io/zh/teaching/aip-5ssb0/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/teaching/aip-5ssb0/</guid>
+      <description>In this course, using fundamental concepts of probability theory, we present an introduction to the design of adaptive information processing systems. This course extends coursework on adaptive signal processing and can also be taken as an introduction to **machine learning** and **data science**. Typical application areas include pattern recognition, medical signal analysis, speech and language processing, image processing, bio-informatics and robotics. In the 2018/19 academic year, this class is taught in semester B (3rd quarter) and starts on 4-Feb-2019.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
+      <link>https://danielmao1.github.io/zh/teaching/bmlip-2019/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/teaching/bmlip-2019/</guid>
+      <description>This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters. We will discuss important algorithms for parameter estimation in these models including the Expectation-Maximization (EM) algorithm and Variational Bayes (VB).</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
+      <link>https://danielmao1.github.io/zh/teaching/bmlip/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/teaching/bmlip/</guid>
+      <description>Note: This site is currently under construction.  --- The 2020/21 course &amp;ldquo;Bayesian Machine Learning and Information Processing&amp;rdquo; will start in November 2020 (Q2).
+Course summary This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters.</description>
+    </item>
+    
+    <item>
+      <title>Exact Processing of Uncertain Top-k Queries in Multi-criteria Settings</title>
+      <link>https://danielmao1.github.io/zh/publication/tang2018pvldb/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tang2018pvldb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Join DBGroup</title>
+      <link>https://danielmao1.github.io/zh/join-us/</link>
+      <pubDate>Thu, 19 Jul 2018 08:50:58 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/join-us/</guid>
+      <description>Introduction 大数据时代，需要稳健扩展性强的数据系统，高效泛用的分析和检索算法，智能直观的可视化框架。 DBGroup是个开放、平等、奋进的大家庭，是大家相互砥砺学习，共克科研难题的平台。 如果你对系统、算法和人工智能感兴趣，如果你有良好的实现和数学基础，如果你对科研充满热情，欢迎加入DBGroup！ 让我们一起为大数据构筑基础，从数据中发现价值~
+简历请发送到: tangb3@sustech.edu.cn</description>
+    </item>
+    
+    <item>
+      <title>Join DBGroup</title>
+      <link>https://danielmao1.github.io/zh/research/starter-guide/</link>
+      <pubDate>Thu, 19 Jul 2018 08:50:58 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/research/starter-guide/</guid>
+      <description>Introduction (Introduction here)
+Research (Research Description here)
+Mission Methodology Expectations and Deliverables Workflow and Tools </description>
+    </item>
+    
+    <item>
+      <title>Determining the Impact Regions of Competing Options in Preference Space</title>
+      <link>https://danielmao1.github.io/zh/publication/tangsigmod2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangsigmod2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the Impact Regions of Competing Options in Preference Space</title>
+      <link>https://danielmao1.github.io/zh/publication/tb_publication_test_1/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tb_publication_test_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Top-K Insights from Multi-dimensional Data</title>
+      <link>https://danielmao1.github.io/zh/publication/tansigmod2017_2/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tansigmod2017_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Top-K Insights from Multi-dimensional Data</title>
+      <link>https://danielmao1.github.io/zh/publication/tb_publication_test_2/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tb_publication_test_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance</title>
+      <link>https://danielmao1.github.io/zh/publication/tangedbt2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangedbt2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance.</title>
+      <link>https://danielmao1.github.io/zh/publication/tb_publication_test_3/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tb_publication_test_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Huang</title>
+      <link>https://danielmao1.github.io/zh/member/huangbo/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/huangbo/</guid>
+      <description>Bo Huang is a member of Database Research Group. He is supervised by Prof. Bo Tang.</description>
+    </item>
+    
+    <item>
+      <title>Bo Tang</title>
+      <link>https://danielmao1.github.io/zh/member/tangbo/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/tangbo/</guid>
+      <description>Bo Tang received the PhD Degree in the Department of Computing at the The Hong Kong Polytechnic University. He was a member of Database Research Group. He was supervised by Dr. Ken Yiu. He was a visiting researcher at MonetDB group (Amsterdam) and Microsoft Research Asia (Beijing). Before that, he obtained his BEng degree in computer science from Sichuan University.</description>
+    </item>
+    
+    <item>
+      <title>Dan Zeng</title>
+      <link>https://danielmao1.github.io/zh/member/zengd/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/zengd/</guid>
+      <description>Dan Zeng received the B.E. and Ph.D. degrees in computer science and technology from Sichuan University in 2013 and 2018, under the supervision of Prof. Zhisheng You and Prof. Qijun Zhao. Since 2012, she participated in ‘3+2+3’ Joined Study of Bachelor and Doctoral Degree program of Sichuan University (Top 5%). She worked as a post-doc research fellow in the Data Management and Biometrics (DMB) Lab at the University of Twente, the Netherlands from 2018 to 2020, under the supervision of Prof.</description>
+    </item>
+    
+    <item>
+      <title>Haotian Liu</title>
+      <link>https://danielmao1.github.io/zh/member/liuhaotian/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/liuhaotian/</guid>
+      <description>Haotian Liu received the Bachelor&amp;rsquo;s degree at Southern University of Science and Technology (SUSTech). He is one of the 16th undergraduates in DBGroup, and supervised by Prof. Bo Tang. He joined DBGroup at 2019. He is a postgraduate students in SUSTech now.</description>
+    </item>
+    
+    <item>
+      <title>Mingji Han</title>
+      <link>https://danielmao1.github.io/zh/member/hanmingji/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/hanmingji/</guid>
+      <description>Mingji Han is a senior undergraduate student majoring computer science at Southern University of Science and Technology. His research interest mainly lies on database system including graph database, modern hardware and query processing.</description>
+    </item>
+    
+    <item>
+      <title>Wendi Luan</title>
+      <link>https://danielmao1.github.io/zh/member/luanwendi/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/luanwendi/</guid>
+      <description>Wendi Luan is an senior undergraduate student in CSE Department @ SUSTech. Her major research interest is in data visualization.</description>
+    </item>
+    
+    <item>
+      <title>Zhengxin You</title>
+      <link>https://danielmao1.github.io/zh/member/youzhengxin/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/youzhengxin/</guid>
+      <description>Zhengxin You is a college student of SUSTech. He joined DBGroup in the middle of 2020. Now he&amp;rsquo;s working on big data visualization.</description>
+    </item>
+    
+    <item>
+      <title>傅伟堡</title>
+      <link>https://danielmao1.github.io/zh/member/fuweibao_zh/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/fuweibao_zh/</guid>
+      <description>傅伟堡是南方科技大学计算机科学与技术专业的一名本科生，导师为唐博老师。他连续获得2019和2020优秀学生奖学金一等奖，目前在做人脸超分的相关工作。</description>
+    </item>
+    
+    <item>
+      <title>卢斓</title>
+      <link>https://danielmao1.github.io/zh/member/lu_lan_zh/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/lu_lan_zh/</guid>
+      <description>卢斓现于南方科技大学修读计算机科学与工程系的本科学位。她于2020年加入DB组，在唐博教授以及晏潇博士的指导下进行相似性检索方面的研究。</description>
+    </item>
+    
+    <item>
+      <title>李倩</title>
+      <link>https://danielmao1.github.io/zh/member/li_qian_zh/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/li_qian_zh/</guid>
+      <description>(这里是详细的个人简介)</description>
+    </item>
+    
+    <item>
+      <title>Exploit Every Bit: Effective Caching for High-Dimensional Nearest Neighbor Search</title>
+      <link>https://danielmao1.github.io/zh/publication/tangtkde2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangtkde2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversified Caching for Replicated Web Search Engines</title>
+      <link>https://danielmao1.github.io/zh/publication/tangicde2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/tangicde2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach to Mugshot Based Arbitrary View Face Recognition</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About DBGroup</title>
+      <link>https://danielmao1.github.io/zh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/about/</guid>
+      <description>About DB Group The research group introduction should be given here.   Group Photo     Group Photo   </description>
+    </item>
+    
+    <item>
+      <title>Combined training strategy for low-resolution face recognition with limited applicationspecific data</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhuai Liu</title>
+      <link>https://danielmao1.github.io/zh/member/liuenhuai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/liuenhuai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examplar Coherent 3D Face Reconstruction from Forensic Mugshot Database</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example-Based 3D Face Reconstruction from Uncalibrated Frontal and Profile Images</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiashu Zhang</title>
+      <link>https://danielmao1.github.io/zh/member/zhangjiashu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/zhangjiashu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Face Alignment and 3D Face Reconstruction</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Likelihood Ratio based Loss to finetune CNNs for Very Low Resolution Face Verification</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On 3D face reconstruction via cascaded regression in shape space</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ting Sun</title>
+      <link>https://danielmao1.github.io/zh/member/sunting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/sunting/</guid>
+      <description>My name is Ting Sun and I am a BSc student in the Database Group of the Department of Computer Science and Engineering at Southern University of Science and Technology. My research focuses on streaming data processing.</description>
+    </item>
+    
+    <item>
+      <title>Towards resolution invariant face recognition in uncontrolled scenarios</title>
+      <link>https://danielmao1.github.io/zh/publication/zengd_publication_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/publication/zengd_publication_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiang Ji</title>
+      <link>https://danielmao1.github.io/zh/member/jixiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/jixiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于我们</title>
+      <link>https://danielmao1.github.io/zh/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/about-us/</guid>
+      <description>Introduction 南方科技大学数据库课题组（DBGroup@SUSTech）成立于2017年， 隶属于计算机科学与工程系。 目前团队成员已超过30人，包括助理教授一名，研究助理教授两名，访问学者一名，博士研究生（含访问）七名，硕士研究生四人，以及若干本科生研究助理。 团队主要研究方向包括大数据分析系统、大规模信息检索、信息可视化和计算机视觉。 DBGroup研究成果一贯发表在数据领域顶级会议和期刊上，如SIGMOD、PVLDB、ICDE，TKDE等。课题组的主要研究目标包括：
+  架构新型数据库系统，支撑未来数据业务；
+  设计原创算法，提高数据库业务效率；
+  结合业界应用与场景，用研究成果解决实际问题。
+  近三年，课题组本科生成果丰硕。研究论文发表在SIGMOD，PVLDB，ICDE，SIGIR等CCF-A类会议上，在2020 SIGMOD Programming Contest中排名全球前5，并且连续两年获得“南方科技大学十佳毕业生”称号。深造方面，DBGroup成员被普渡大学、芝加哥大学和新加坡国立大学等知名高校录取为博士研究生；就业方面DBGroup成员受到向阿里巴巴，腾讯和微软等著名企业的青睐。
+唐博博士，2017年于香港理工大学获博士学位，同年加入南方科技大学并创建数据库课题组（DBGroup），现任计算机科学与工程系助理教授（博士生导师）。 主要研究方向包括大数据管理与分析系统、查询优化技术、商业智能等。 曾任荷兰国家数学与计算机研究院(CWI，阿姆斯特丹)和微软亚洲研究院 (MSRA, 北京）访问研究员。 任南方科技大学程序设计竞赛队总教练，截止目前，带领南方科技大学程序设计竞赛队获得亚洲区、国家级、省级金、银、铜牌共计58块，涵盖6大书院、174人次。
+晏潇博士，2020年于香港中文大学获得博士学位，现任计算机科学与工程系研究助理教授。 主要研究方向为大规模数据索引和检索、随机算法、高效机器学习算法与系统。 在SGIMOD，VLDB，NeurIPS，ATC等顶级国际会议上发表论文十余篇。 担任ICML，NeurIPS，AAAI等知名国际学术会议，和IEEE TKDE，VLDBJ，IEEE TNNLS等顶级学术期刊的审稿人。
+曾丹博士，2018年于四川大学获得博士学位，现任计算机科学与工程系研究助理教授。 主要研究方向为生物特征识别、人脸识别与三维人脸建模、计算机视觉和深度学习。 在IEEE TPAMI, IVC, CVPR, ECCV等顶级国际期刊及会议发表论文十余篇，担任IEEE TIFS, PR, PRL, IVC, AAAI等顶级国际期刊及知名学术会议审稿人。 曾在荷兰特文特大学DMB实验室从事博士后研究。
+团队和新加坡国立大学、香港科技大学、香港中文大学和中科院等研究机构有持续的研究合作。 与阿里巴巴、腾讯、字节跳动、华为等业界领先公司均有联合研究项目。 研发技术应用于Microsoft Power BI产品， 开源列式存储数据库MonetDB系统， 阿里巴巴上线推荐系统和华为MindSpore深度学习系统。 课题组纵向科研经费来源包括国家自然科学基金，广东省自然科学基金， 广东省教育厅新冠肺炎疫情防控科研专项以及深圳市科创委。</description>
+    </item>
+    
+    <item>
+      <title>武尚萱</title>
+      <link>https://danielmao1.github.io/zh/member/wushangxuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/wushangxuan/</guid>
+      <description>我是南方科技大学计算机系的大三学生，主要研究方向是数据可视化。</description>
+    </item>
+    
+    <item>
+      <title>江文</title>
+      <link>https://danielmao1.github.io/zh/member/jiangwen_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/member/jiangwen_zh/</guid>
+      <description>江文是南方科技大学计算机科学与工程专业的一名本科生，导师为唐博老师，目前在组内做深度学习和计算机视觉方向的工作。</description>
+    </item>
+    
   </channel>
 </rss>

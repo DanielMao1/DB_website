@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on DBGroup</title>
+    <link>https://danielmao1.github.io/zh/teaching/</link>
+    <description>Recent content in Teachings on DBGroup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; DB Group, 2020 </copyright>
+    <lastBuildDate>Thu, 23 Aug 2018 14:45:00 +0200</lastBuildDate><atom:link href="https://danielmao1.github.io/zh/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptive Information Processing (5SSB0)</title>
+      <link>https://danielmao1.github.io/zh/teaching/aip-5ssb0/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/teaching/aip-5ssb0/</guid>
+      <description>In this course, using fundamental concepts of probability theory, we present an introduction to the design of adaptive information processing systems. This course extends coursework on adaptive signal processing and can also be taken as an introduction to **machine learning** and **data science**. Typical application areas include pattern recognition, medical signal analysis, speech and language processing, image processing, bio-informatics and robotics. In the 2018/19 academic year, this class is taught in semester B (3rd quarter) and starts on 4-Feb-2019.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
+      <link>https://danielmao1.github.io/zh/teaching/bmlip-2019/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/teaching/bmlip-2019/</guid>
+      <description>This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters. We will discuss important algorithms for parameter estimation in these models including the Expectation-Maximization (EM) algorithm and Variational Bayes (VB).</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
+      <link>https://danielmao1.github.io/zh/teaching/bmlip/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/zh/teaching/bmlip/</guid>
+      <description>Note: This site is currently under construction.  --- The 2020/21 course &amp;ldquo;Bayesian Machine Learning and Information Processing&amp;rdquo; will start in November 2020 (Q2).
+Course summary This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters.</description>
+    </item>
+    
+  </channel>
+</rss>

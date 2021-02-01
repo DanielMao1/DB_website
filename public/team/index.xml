@@ -2,190 +2,252 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DBGroup Team on DBGroup</title>
-    <link>10.20.87.51/team/</link>
+    <link>https://danielmao1.github.io/team/</link>
     <description>Recent content in DBGroup Team on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <copyright>&amp;copy; DB Group, 2020 </copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 16:52:22 +0200</lastBuildDate><atom:link href="10.20.87.51/team/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 15:52:22 +0200</lastBuildDate><atom:link href="https://danielmao1.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jiaping Cao</title>
+      <link>https://danielmao1.github.io/member/caojiaping_en/</link>
+      <pubDate>Thu, 14 Jan 2021 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/member/caojiaping_en/</guid>
+      <description>Cao Jiaping is a current PhD student in the Department of Computing at the Hong Kong Polytechnic Unversity, supervised by Dr. Ken Yiu. He is also a member of Flink System Group in SUSTech DBGroup.</description>
+    </item>
+    
     <item>
       <title>Chaozu Zhang</title>
-      <link>10.20.87.51/member/zhangchaozu/</link>
+      <link>https://danielmao1.github.io/member/zhangchaozu/</link>
       <pubDate>Tue, 05 Jan 2021 16:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/zhangchaozu/</guid>
+      <guid>https://danielmao1.github.io/member/zhangchaozu/</guid>
       <description>Chaozu Zhang is the of the 17th undergraduates in DBGroup, majoring in visualization under the leader of Dr.Shen. He is majoring in sampling technology for large-scale trajectory data.</description>
     </item>
     
     <item>
       <title>Zelin Li</title>
-      <link>10.20.87.51/member/lizelin/</link>
+      <link>https://danielmao1.github.io/member/lizelin/</link>
       <pubDate>Thu, 31 Dec 2020 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/lizelin/</guid>
+      <guid>https://danielmao1.github.io/member/lizelin/</guid>
       <description>My name is Zelin Li and I am a BSc student in the Database Group of the Department of Computer Science and Engineering at Southern University of Science and Technology. My research focuses on face image super-resolution.</description>
     </item>
     
     <item>
-      <title>Weibao Fu</title>
-      <link>10.20.87.51/member/fuweibao/</link>
+      <title>Peiqi Yin</title>
+      <link>https://danielmao1.github.io/member/yinpeiqi/</link>
       <pubDate>Wed, 30 Dec 2020 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/fuweibao/</guid>
+      <guid>https://danielmao1.github.io/member/yinpeiqi/</guid>
+      <description>Peiqi Yin is an undergraduate student in Database Group in Southern University of Science and Technology. He is following tutor Bo Tang. He was an ACM member of SUSTech and he is interested in algorithm. He have won silver medal of ICPC (Shanghai) 2020, silver medal of CCPC (Qinghuangdao) 2020, gold medal of GMCPC (Guangdong Macao) 2020, fastest solved award of ICPC (Xuzhou) 2019.</description>
+    </item>
+    
+    <item>
+      <title>Weibao Fu</title>
+      <link>https://danielmao1.github.io/member/fuweibao/</link>
+      <pubDate>Wed, 30 Dec 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/member/fuweibao/</guid>
       <description>Weibao Fu is an undergraduate student in Database Group in Southern University of Science and Technology, who is following tutor Bo Tang and Dan Zen. He is awarded the First Class of the Merit Student Scholarship for two consecutive years (2019 and 2020). The current research direction is the super-resolution on face images and there is a paper submitting in CVPR Face Super-Resolution with Highway for High Frequency Signal.</description>
     </item>
     
     <item>
       <title>Qian Li</title>
-      <link>10.20.87.51/member/liqian/</link>
+      <link>https://danielmao1.github.io/member/liqian/</link>
       <pubDate>Sun, 20 Dec 2020 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/liqian/</guid>
+      <guid>https://danielmao1.github.io/member/liqian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maozunyao</title>
-      <link>10.20.87.51/member/maozunyao/</link>
+      <link>https://danielmao1.github.io/member/maozunyao/</link>
       <pubDate>Tue, 01 Sep 2020 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/maozunyao/</guid>
+      <guid>https://danielmao1.github.io/member/maozunyao/</guid>
       <description>My name is Mao Zunyao and I am a undergraduate junior student of Southern University of Science and Technology. I am now working on system direction, and implementing a GPU-integrated distributed system.</description>
     </item>
     
     <item>
-      <title>Keming Li</title>
-      <link>10.20.87.51/member/kemingli/</link>
+      <title>Jian Zeng</title>
+      <link>https://danielmao1.github.io/member/zengjian/</link>
       <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/kemingli/</guid>
+      <guid>https://danielmao1.github.io/member/zengjian/</guid>
+      <description>Jian Zeng received his master degree from Sun Yat-sen University. He was a visiting researcher at State Key Laboratory of Internet of Things for Smart City (University of Macau).</description>
+    </item>
+    
+    <item>
+      <title>Keming Li</title>
+      <link>https://danielmao1.github.io/member/kemingli/</link>
+      <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/member/kemingli/</guid>
       <description>KemingLi received the bachelor&amp;rsquo;s Degree in the Computer Science Department of Southern University of Science and Technology. He had a internship at Huawei Telecommunications equipment company as a developer.</description>
     </item>
     
     <item>
       <title>Yan Xiao</title>
-      <link>10.20.87.51/member/yan-xiao_member_model/</link>
+      <link>https://danielmao1.github.io/member/yan-xiao_member_model/</link>
       <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/yan-xiao_member_model/</guid>
+      <guid>https://danielmao1.github.io/member/yan-xiao_member_model/</guid>
       <description>Dr. Yan Xiao received his Ph.D. degree from The Chinese University of Hong Kong under the supervision of Professor James Cheng.</description>
     </item>
     
     <item>
       <title>Bo Huang</title>
-      <link>10.20.87.51/member/huangbo/</link>
+      <link>https://danielmao1.github.io/member/huangbo/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/huangbo/</guid>
+      <guid>https://danielmao1.github.io/member/huangbo/</guid>
       <description>Bo Huang is a member of Database Research Group. He is supervised by Prof. Bo Tang.</description>
     </item>
     
     <item>
       <title>Bo Tang</title>
-      <link>10.20.87.51/member/tangbo/</link>
+      <link>https://danielmao1.github.io/member/tangbo/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/tangbo/</guid>
+      <guid>https://danielmao1.github.io/member/tangbo/</guid>
       <description>Bo Tang received the PhD Degree in the Department of Computing at the The Hong Kong Polytechnic University. He was a member of Database Research Group. He was supervised by Dr. Ken Yiu. He was a visiting researcher at MonetDB group (Amsterdam) and Microsoft Research Asia (Beijing). Before that, he obtained his BEng degree in computer science from Sichuan University.</description>
     </item>
     
     <item>
       <title>Dan Zeng</title>
-      <link>10.20.87.51/member/zengd/</link>
+      <link>https://danielmao1.github.io/member/zengd/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/zengd/</guid>
+      <guid>https://danielmao1.github.io/member/zengd/</guid>
       <description>Dan Zeng received the B.E. and Ph.D. degrees in computer science and technology from Sichuan University in 2013 and 2018, under the supervision of Prof. Zhisheng You and Prof. Qijun Zhao. Since 2012, she participated in ‘3+2+3’ Joined Study of Bachelor and Doctoral Degree program of Sichuan University (Top 5%). She worked as a post-doc research fellow in the Data Management and Biometrics (DMB) Lab at the University of Twente, the Netherlands from 2018 to 2020, under the supervision of Prof.</description>
     </item>
     
     <item>
       <title>Haotian Liu</title>
-      <link>10.20.87.51/member/liuhaotian/</link>
+      <link>https://danielmao1.github.io/member/liuhaotian/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/liuhaotian/</guid>
+      <guid>https://danielmao1.github.io/member/liuhaotian/</guid>
       <description>Haotian Liu received the Bachelor&amp;rsquo;s degree at Southern University of Science and Technology (SUSTech). He is one of the 16th undergraduates in DBGroup, and supervised by Prof. Bo Tang. He joined DBGroup at 2019. He is a postgraduate students in SUSTech now.</description>
     </item>
     
     <item>
-      <title>Wendi Luan</title>
-      <link>10.20.87.51/member/luanwendi/</link>
+      <title>Lan Lu</title>
+      <link>https://danielmao1.github.io/member/lulan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/luanwendi/</guid>
+      <guid>https://danielmao1.github.io/member/lulan/</guid>
+      <description>Lan Lu is an undergraduate in the Department of Computer Science and Engineering at Southern University of Science and Technology. She joined in DB group in 2020 and is now a member of Similarity Search group supervised by professor Bo Tang and Dr. Xiao Yan.</description>
+    </item>
+    
+    <item>
+      <title>Mingji Han</title>
+      <link>https://danielmao1.github.io/member/hanmingji/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/member/hanmingji/</guid>
+      <description>Mingji Han is a senior undergraduate student majoring computer science at Southern University of Science and Technology. His research interest mainly lies on database system including graph database, modern hardware and query processing.</description>
+    </item>
+    
+    <item>
+      <title>Wendi Luan</title>
+      <link>https://danielmao1.github.io/member/luanwendi/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://danielmao1.github.io/member/luanwendi/</guid>
       <description>Wendi Luan is an senior undergraduate student in CSE Department @ SUSTech. Her major research interest is in data visualization.</description>
     </item>
     
     <item>
       <title>Wentao Ning</title>
-      <link>10.20.87.51/member/ningwentao/</link>
+      <link>https://danielmao1.github.io/member/ningwentao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/ningwentao/</guid>
+      <guid>https://danielmao1.github.io/member/ningwentao/</guid>
       <description>Wentao Ning is a PhD student under SUSTech-HKU Joint PhD Programme, supervised by Prof. Bo Tang (SUSTech) and Reynold Cheng (HKU). He received his BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech) in July, 2020.</description>
     </item>
     
     <item>
       <title>Zhengxin You</title>
-      <link>10.20.87.51/member/youzhengxin/</link>
+      <link>https://danielmao1.github.io/member/youzhengxin/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>10.20.87.51/member/youzhengxin/</guid>
+      <guid>https://danielmao1.github.io/member/youzhengxin/</guid>
       <description>Zhengxin You is a college student of SUSTech. He joined DBGroup in the middle of 2020. Now he&amp;rsquo;s working on big data visualization.</description>
     </item>
     
     <item>
       <title>Enhuai Liu</title>
-      <link>10.20.87.51/member/liuenhuai/</link>
+      <link>https://danielmao1.github.io/member/liuenhuai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>10.20.87.51/member/liuenhuai/</guid>
+      <guid>https://danielmao1.github.io/member/liuenhuai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jiashu Zhang</title>
-      <link>10.20.87.51/member/zhangjiashu/</link>
+      <link>https://danielmao1.github.io/member/zhangjiashu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>10.20.87.51/member/zhangjiashu/</guid>
+      <guid>https://danielmao1.github.io/member/zhangjiashu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shangxuan Wu</title>
-      <link>10.20.87.51/member/wushangxuan/</link>
+      <link>https://danielmao1.github.io/member/wushangxuan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>10.20.87.51/member/wushangxuan/</guid>
+      <guid>https://danielmao1.github.io/member/wushangxuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teng Wang</title>
-      <link>10.20.87.51/member/wangteng/</link>
+      <link>https://danielmao1.github.io/member/wangteng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>10.20.87.51/member/wangteng/</guid>
+      <guid>https://danielmao1.github.io/member/wangteng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ting Sun</title>
-      <link>10.20.87.51/member/sunting/</link>
+      <link>https://danielmao1.github.io/member/sunting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>10.20.87.51/member/sunting/</guid>
+      <guid>https://danielmao1.github.io/member/sunting/</guid>
       <description>My name is Ting Sun and I am a BSc student in the Database Group of the Department of Computer Science and Engineering at Southern University of Science and Technology. My research focuses on streaming data processing.</description>
     </item>
     
     <item>
-      <title>Xiang Ji</title>
-      <link>10.20.87.51/member/jixiang/</link>
+      <title>Wen Jiang</title>
+      <link>https://danielmao1.github.io/member/jiangwen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>10.20.87.51/member/jixiang/</guid>
+      <guid>https://danielmao1.github.io/member/jiangwen/</guid>
+      <description>Wen Jiang is an undergraduate student in Database Group in Southern University of Science and Technology, who is following tutor Bo Tang and Dan Zen. The current research direction is the super-resolution on face images and video super resolution.</description>
+    </item>
+    
+    <item>
+      <title>Xiang Ji</title>
+      <link>https://danielmao1.github.io/member/jixiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/member/jixiang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiyuan Lin</title>
+      <link>https://danielmao1.github.io/member/linzhiyuan_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielmao1.github.io/member/linzhiyuan_en/</guid>
+      <description>A member of CV joining the DB group in September, 2020</description>
     </item>
     
   </channel>
