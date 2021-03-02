@@ -14,7 +14,8 @@ sort_position = 13
     link = "https://github.com/Carl-Rabbit"
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 
 +++
 Zhengxin You is a college student of SUSTech. He joined DBGroup in the middle of 2020. Now he's working on big data visualization.

@@ -19,7 +19,8 @@ cv_link = ""
     institution = ' '
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 
 +++
 Wendi Luan is an senior undergraduate student in CSE Department @ SUSTech. Her major research interest is in data visualization.

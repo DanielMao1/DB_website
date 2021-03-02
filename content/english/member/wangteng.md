@@ -14,5 +14,8 @@ cv_link = ""
     course = "BEng degree in the Department of Computer Science and Technology"
     institution = 'Jinan University'
  
+ [[organizations]]
+     name = "Department of Computer Science and Engineering"
+     role = "Master Student"
 
 +++

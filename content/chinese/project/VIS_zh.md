@@ -1,8 +1,8 @@
 +++
 date = "2020-05-22T14:45:00+02:00"
-title = "可视化"
+title = "数据可视化"
 picture = "projects/VIS/main.jpg"
-short_description=""
+short_description="数据可视化是分析大规模时空数据的主要方法之一，旨在通过结合人类明锐的感知能力和计算机高效的计算能力来完成对数据中知识的发现和总结。"
 description=""
 +++
 ### 时空数据可视化

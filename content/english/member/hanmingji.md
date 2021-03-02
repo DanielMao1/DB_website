@@ -24,7 +24,7 @@ cv_link = ""
     institution = 'Southern University of Science and Technology'
 
 [[organizations]]
-    role = "Undergraduate (SUSTech)"
-
+        name = "Department of Computer Science and Engineering"
+        role = "Undergraduate Student"
 +++
 Mingji Han is a senior undergraduate student majoring computer science at Southern University of Science and Technology. His research interest mainly lies on database system including graph database, modern hardware and query processing. 

@@ -25,6 +25,7 @@ cv_link = ""
 
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 +++
 Wen Jiang is an undergraduate student in Database Group in Southern University of Science and Technology, who is following tutor Bo Tang and Dan Zen. The current research direction is the super-resolution on face images and video super resolution.

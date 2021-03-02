@@ -1,4 +1,4 @@
 +++
 title = "DBGroup Team"
-url="/team"
+url="/zh/team"
 +++

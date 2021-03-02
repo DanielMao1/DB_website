@@ -29,8 +29,9 @@ cv_link = ""
     institution = ''
 
 [[organizations]]
-    name = ""
-    role = ""
+[[organizations]]
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 
 +++
 

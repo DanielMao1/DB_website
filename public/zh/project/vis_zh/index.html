@@ -11,35 +11,35 @@
     
 
     <script src="https://cdn.bootcdn.net/ajax/libs/jquery/1.12.4/jquery.js"></script>
-    <script src="https://danielmao1.github.io/js/hugo-academic-group.js"></script>
+    <script src="https://danielmao1.github.io//js/hugo-academic-group.js"></script>
 
-    <link rel="stylesheet" href="https://danielmao1.github.io/css/bootstrap.min.css">
-    <script src="https://danielmao1.github.io/js/bootstrap.min.js"></script>  
+    <link rel="stylesheet" href="https://danielmao1.github.io//css/bootstrap.min.css">
+    <script src="https://danielmao1.github.io//js/bootstrap.min.js"></script>  
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
     
     
-    <script src="https://danielmao1.github.io/js/highlight.pack.js"></script>
+    <script src="https://danielmao1.github.io//js/highlight.pack.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
 
-    <link rel="stylesheet" href="https://danielmao1.github.io/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://danielmao1.github.io/css/academicons.min.css">
-    <link rel="stylesheet" href="https://danielmao1.github.io/css/biaslab-font.css">
+    <link rel="stylesheet" href="https://danielmao1.github.io//css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://danielmao1.github.io//css/academicons.min.css">
+    <link rel="stylesheet" href="https://danielmao1.github.io//css/biaslab-font.css">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
-    <link rel="stylesheet" href="https://danielmao1.github.io/css/hugo-academic-group.css">
+    <link rel="stylesheet" href="https://danielmao1.github.io//css/hugo-academic-group.css">
 
     
-    <link rel="stylesheet" href="https://danielmao1.github.io/css/biaslab.css">
+    <link rel="stylesheet" href="https://danielmao1.github.io//css/biaslab.css">
     
 
 
-    <link rel="shortcut icon" href="https://danielmao1.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://danielmao1.github.io/zh/project/project_model_vis/">
+    <link rel="shortcut icon" href="https://danielmao1.github.io//img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://danielmao1.github.io/zh/project/vis_zh/">
 
-    <title>Visualization Direction | DBGroup</title>
+    <title>可视化 | DBGroup</title>
 
 </head>
 
@@ -88,14 +88,6 @@
             
             <ul class="nav navbar-nav navbar-right">
                 
-
-
-    
-    <li class="list f5 f4-ns fw4 dib pr3">
-        <a class="hover-white no-underline white-90" href="https://danielmao1.github.io/project/project_model_vis/">English</a>
-    </li>
-    
-
 
                  
                     
@@ -147,17 +139,25 @@
     
 
     <article class="article article-project" itemscope itemtype="http://schema.org/Article">
-        <h1 itemprop="name">Visualization Direction</h1>
+        <h1 itemprop="name">可视化</h1>
         
         
 
         
 
         <div class="article-style" itemprop="articleBody">
-            <h2 id="efficient-and-effective-data-visualization">Efficient and effective data visualization</h2>
-<p>Spatial-temporal visualization techniques have been applied in various real-world applications and assist the data exploration by leveraging the sharp perception of human analysts. However, large data visualization is challenging. 1) The long data to visualization latency (query time, computing time and rendering time) always break the continuity of the human involved data exploration loop; 2) visual clutter caused by a large amount of data hinders the ability of the human to discover the insight. We aim to solve this problem by combing multiple techniques including quality-guaranteed data reduction, approximate query and task-adopt data materialization.</p>
-<h2 id="visualization-for-hpc-system">Visualization for HPC system</h2>
-<p>High-performance computing(HPC) system has been developed for the large data storage, query and analysis. A unified visual analytics platform for these systems is helpful for system users to observe, understand and diagnose the system running process.  We aim to develop the corresponding visualization toolkits to be embedded into the current open-source HPC systems, empower the users to better perform the large data exploration.</p>
+            <h3 id="时空数据可视化">时空数据可视化</h3>
+<p>数据可视化是分析大规模时空数据的主要方法之一，旨在通过结合人类明锐的感知能力和计算机高效的计算能力来完成对数据中知识的发现和总结。
+然而，大规模的时空数据可视化面临两个主要问题：1）大数据可视化会带来较长的交互时延，导致交互分析过的过程不连续；2）大量视觉元素带来的视觉混乱，导致有效信息被隐藏。
+我们将结合以下技术来解决这些问题：</p>
+<ul>
+<li>数据缩减（data reduction）</li>
+<li>近似查询（approximate query）</li>
+<li>基于可视化任务的数据物化</li>
+</ul>
+<h3 id="高性能计算系统可视分析">高性能计算系统可视分析</h3>
+<p>高性能计算系统（High-performance computing，HPC）目前被广泛使用到大规模数据存储，查询和分析中。但针对HPC的分析工具任然缺乏。
+我们将研发相应的可视分析工具，该工具可集成于现有特定HPC（如Hive，Flink）中，用以展示，分析HPC运作过程，诊断HPC运行时出现的问题。</p>
 
         </div>
     

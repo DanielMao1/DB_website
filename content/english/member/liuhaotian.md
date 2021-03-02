@@ -3,7 +3,7 @@ date = "2016-07-12T15:52:22+02:00"
 id = "haotianliu"
 interests = ["Big Data System Optimization"]
 name = "Haotian Liu"
-portrait = "portraits/刘昊天.jpg"
+portrait = "portraits/liuhaotian.jpg"
 short_bio = "Group Member"
 title = "Haotian Liu"
 personal_website = "haotianliu.cn"
@@ -13,7 +13,9 @@ sort_position = 8
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/haotian-l"
-
+[[organizations]]
+    name = "Department of Computer Science and Engineering"
+    role = "Master Student"
 
 
 +++

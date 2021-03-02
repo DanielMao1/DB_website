@@ -3,7 +3,7 @@ date = "2021/1/14"
 id = "linzhiyuan"
 interests = ["Super-resolution","Expression recogntion"]
 name = "Zhiyuan Lin"
-portrait = "portraits/linzhiyuan.jpeg"
+portrait = "portraits/linzhiyuan.jpg"
 short_bio = "Group member"
 title = "Zhiyuan Lin"
 sort_position = 10
@@ -28,6 +28,7 @@ cv_link = ""
     institution = 'SUSTech'
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 +++
 A member of CV joining the DB group in September, 2020

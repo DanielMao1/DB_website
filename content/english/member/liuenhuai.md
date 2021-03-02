@@ -10,5 +10,7 @@ sort_position = 12
 [[education]]
     course = "Department of Computer Science and Engineering"
     institution = 'SUSTech'
-
+[[organizations]]
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 +++

@@ -35,7 +35,7 @@ image = "research3.jpg"
 
 
 该研究课题正在进行。
-image = "research4.jpg"
+{{< figure src="/img/projects/CV/research4.png" title="Research 2" width="400px" >}}
 
 ## Reserach Project V - 孕妇生产时疼痛级别的智能分级
 该研究课题与深圳市人民医院合作，目前处于前期数据采集阶段。

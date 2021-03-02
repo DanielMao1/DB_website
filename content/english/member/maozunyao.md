@@ -25,8 +25,9 @@ sort_position = 10
     institution = 'Southern University of Science and Technology' 
     year = 2018
 
-[[organizations]] 
- role = "Undergraduate (SUSTech)"
+[[organizations]]
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 +++
 
 My name is Mao Zunyao and I am a undergraduate junior student of Southern University of Science and Technology. I am now working on system direction, and implementing a GPU-integrated distributed system.

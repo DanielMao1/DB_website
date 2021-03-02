@@ -20,8 +20,8 @@ cv_link = ""
     institution = "Southern University of Science and Technology"
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
-
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 +++
 Peiqi Yin is an undergraduate student in Database Group in Southern University of Science and Technology.  He is following tutor Bo Tang. He was an ACM member of SUSTech and he is interested in algorithm. He have won silver medal of ICPC (Shanghai) 2020, silver medal of CCPC (Qinghuangdao) 2020, gold medal of GMCPC (Guangdong Macao) 2020, fastest solved award of ICPC (Xuzhou) 2019. 
 

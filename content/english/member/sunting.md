@@ -19,7 +19,8 @@ personal_website = "https://sunt-ing.github.io"
     link = "https://github.com/sunt-ing"
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 
 +++
 My name is Ting Sun and I am a BSc student in the Database Group of the Department of Computer Science and Engineering at Southern University of Science and Technology. My research focuses on streaming data processing.

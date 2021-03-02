@@ -19,7 +19,8 @@ personal_website = ""
     link = "https://github.com/Seeyn"
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 
 +++
 My name is Zelin Li and I am a BSc student in the Database Group of the Department of Computer Science and Engineering at Southern University of Science and Technology. My research focuses on face image super-resolution.

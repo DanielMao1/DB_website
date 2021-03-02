@@ -1,6 +1,6 @@
 +++
 date = "2020-05-22T14:45:00+02:00"
-title = "CV Direction"
+title = "Computer Vision"
 
 picture = "projects/CV/images.jpg"
 description="How to make a computer intelligently understand the visual information of the image like a human."
@@ -45,7 +45,6 @@ This project is a collaborative work between Fiance department and Computer Scie
 
 This research project is an on-going research. 
 
-image = "research4.jpg"
-
+{{< figure src="/img/projects/CV/research4.png" title="Research 2" width="400px" >}}
 ## Reserach Project V - Intelligent Pain Scale with Applications to Delivery Labor
 COMING SOON

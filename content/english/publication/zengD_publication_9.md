@@ -1,8 +1,7 @@
 +++
 abstract = "Mugshot face images, routinely collected by police, usually contain both frontal and profile views. Existing automated face recognition methods exploited mugshot databases by enlarging the gallery with synthetic multi-view face images generated from the mugshot face images. This paper, instead, proposes to match the query arbitrary view face image directly to the enrolled frontal and profile face images. During matching, the 3D face shape model reconstructed from the mugshot face images is used to establish corresponding semantic parts between query and gallery face images, based on which comparison is done. The final recognition result is obtained by fusing the matching results with frontal and profile face images. Compared with previous methods, the proposed method better utilizes mugshot databases without using synthetic face images that may have artifacts. Its effectiveness has been demonstrated on the Color FERET and CMU PIE databases."
 abstract_short = ""
-date = "2016-04"
-image = "publication/2016josk.png"
+date = "2016-04-02"
 image_preview = ""
 math = false
 publication = "Journal of the Optical Society of Korea"

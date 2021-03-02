@@ -20,6 +20,7 @@ title = "Chaozu Zhang"
     link = "https://github.com/ChrisZcu"
 
 [[organizations]]
- role = "Undergraduate (SUSTech)"
+    name = "Department of Computer Science and Engineering"
+    role = "Undergraduate Student"
 +++
 Chaozu Zhang is the of the 17th undergraduates in DBGroup, majoring in visualization under the leader of Dr.Shen. He is majoring in sampling technology for large-scale trajectory data.

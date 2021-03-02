@@ -2,7 +2,7 @@
 date = "2020-05-22T14:45:00+02:00"
 title = "Visualization Direction"
 picture = "projects/VIS/main.jpg"
-
+short_description="Spatial-temporal visualization techniques have been applied in various real-world applications and assist the data exploration by leveraging the sharp perception of human analysts."
 +++
 
 ## Efficient and effective data visualization

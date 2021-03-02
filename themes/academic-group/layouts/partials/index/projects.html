@@ -22,8 +22,17 @@
         <div>
             {{ if gt $projects_len .Site.Params.projects.count }}
                 <p class="view-all">
-                    <a href="{{ .Site.BaseURL }}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">
-                        {{ with .Site.Params.projects.str_all }}{{ . | markdownify }}{{ end }}
+
+                    {{if eq .Lang "zh"}}
+                    <a href="{{ .Site.BaseURL }}/zh/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                        查看全部
+                        {{else}}
+                        <a href="{{ .Site.BaseURL }}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                            View All
+                            {{end}}
+
+
+
                         <i class="fa fa-angle-double-right"></i>
                     </a>
                 </p>

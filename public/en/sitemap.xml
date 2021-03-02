@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://danielmao1.github.io/member/bianzheng_en/</loc>
+    <lastmod>2020-12-14T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://danielmao1.github.io/member/maozunyao/</loc>
     <lastmod>2020-09-01T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -155,16 +160,6 @@
   <url>
     <loc>https://danielmao1.github.io/project/project_model_vis/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://danielmao1.github.io/zh/project/project_model_vis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielmao1.github.io/project/project_model_vis/"
-                />
   </url>
   
   <url>
@@ -175,16 +170,6 @@
   <url>
     <loc>https://danielmao1.github.io/member/kemingli/</loc>
     <lastmod>2020-01-29T15:52:22+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://danielmao1.github.io/zh/member/kemingli/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielmao1.github.io/member/kemingli/"
-                />
   </url>
   
   <url>
@@ -510,16 +495,11 @@
   <url>
     <loc>https://danielmao1.github.io/member/hanmingji/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://danielmao1.github.io/zh/member/hanmingji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielmao1.github.io/member/hanmingji/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/nan_deng_en/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
@@ -555,6 +535,11 @@
                 hreflang="en"
                 href="https://danielmao1.github.io/member/youzhengxin/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://danielmao1.github.io/member/nan_deng_zh/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>

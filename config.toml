@@ -87,7 +87,7 @@ tag = "tags"
   [params.projects]
     title = "Projects"
     subtitle = ""
-    count = 3
+    count = 4
     str_all = "More Projects"
 
   # Vacancies section
@@ -205,7 +205,7 @@ weight=1
   [Languages.zh.params.projects]
     title = "项目"
     subtitle = ""
-    count = 3
+    count = 4
     str_all = "更多"
 
   # Vacancies section

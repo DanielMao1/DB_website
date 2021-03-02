@@ -21,6 +21,9 @@ sort_position = 111
 [[education]]
     course = "BSc. in Computer Science and Technology, 2017"
     institution = 'Southern University of Science and Technology'
+    [[organizations]]
+        name = "Department of Computer Science and Engineering"
+        role = "Undergraduate Student"
 
 +++
 Nan Deng is a senior student of Southern University of Science and Technology and is now on supporting GPU execution engine on Flink.

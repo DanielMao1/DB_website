@@ -27,10 +27,12 @@
         <!-- Link to all members -->
         <div>
             <p class="view-all">
-                <a href="{{ .Site.BaseURL }}/team/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+
                     {{if eq .Lang "zh"}}
+                <a href="{{ .Site.BaseURL }}/zh/team/{{if .Site.Params.uglyURLs}}index.html{{end}}">
                     全部成员
                     {{else}}
+                    <a href="{{ .Site.BaseURL }}/team/{{if .Site.Params.uglyURLs}}index.html{{end}}">
                     Full Team
                     {{end}}
                     <i class="fa fa-angle-double-right"></i>

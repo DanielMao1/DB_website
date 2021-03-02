@@ -30,7 +30,7 @@ cv_link = ""
  
 
 [[organizations]]
-    name = ""
-    role = ""
+    name = "Department of Computer Science and Engineering"
+    role = "Master Student"
 
 +++
