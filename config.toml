@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "10.20.87.51"
+baseurl = "https://10.16.3.226/DBGroup"
 canonifyurls = true
 theme = "academic-group"
 title = "DBGroup"
