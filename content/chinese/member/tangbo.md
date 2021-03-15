@@ -4,7 +4,7 @@ id = "tangbo"
 interests = ["Data management (i.e., similarity search on high dimensional data, data exploration techniques on multi-dimensional dataset)"]
 name = "Bo Tang"
 portrait = "portraits/tangbo1.jpg"
-short_bio = "教授"
+short_bio = "助理教授"
 title = "Bo Tang"
 sort_position = 1
 personal_website = "https://faculty.sustech.edu.cn/tangb3/"
@@ -31,7 +31,7 @@ cv_link = "https://scholar.google.com/citations?hl=en&user=og0Jsq4AAAAJ"
 
 [[organizations]]
     name = "Department of Computer Science and Engineering"
-    role = "教授"
+    role = "助理教授"
 
 +++
 Bo Tang received the PhD Degree in the Department of Computing at the The Hong Kong Polytechnic University. He was a member of Database Research Group. He was supervised by Dr. Ken Yiu. He was a visiting researcher at MonetDB group (Amsterdam) and Microsoft Research Asia (Beijing). Before that, he obtained his BEng degree in computer science from Sichuan University.

@@ -6,7 +6,7 @@ name = "王腾"
 portrait = "portraits/wangteng.jpg"
 short_bio = "2019级研究生"
 title = "王腾"
-sort_position = 5
+sort_position = 6
 
 [[social]]
     icon = "envelope"
@@ -20,7 +20,7 @@ sort_position = 5
 
 [[organizations]]
     name = "计算机科学与工程系"
-    role = "学生"
+    role = "研究生（南方科技大学）"
 
 +++
 (这里是详细的个人简介)

@@ -4,7 +4,7 @@ id = "YanXiao"
 interests = ["Information Retrieval"]
 name = "Yan Xiao"
 portrait = "portraits/YanXiao.jpg"
-short_bio = "教授"
+short_bio = "研究助理教授"
 title = "Yan Xiao"
 sort_position = 2
 personal_website = "http://cse.sustech.edu.cn/faculty/~yanx/"
@@ -31,7 +31,7 @@ cv_link = "http://cse.sustech.edu.cn/faculty/~yanx/"
 
 [[organizations]]
     name = "Department of Computer Science and Engineering"
-    role = "教授"
+    role = "研究助理教授"
 
 +++
 Dr. Yan Xiao received his Ph.D. degree from The Chinese University of Hong Kong under the supervision of Professor James Cheng.

@@ -2,7 +2,7 @@
 date = "2016-07-12T15:52:22+02:00"
 id = "huangbo"
 interests = ["Computational Geometry"]
-name = "Bo Huang"
+name = "黄博"
 portrait = "portraits/huangbo.png"
 short_bio = "Group Member"
 title = "Bo Huang"
@@ -21,7 +21,7 @@ cv_link = ""
 
 [[organizations]]
     name = "Department of Computer Science and Engineering"
-    role = "Candidate of Master"
+    role = "研究生(南方科技大学)"
 
 +++
 Bo Huang is a member of Database Research Group. He is supervised by Prof. Bo Tang.

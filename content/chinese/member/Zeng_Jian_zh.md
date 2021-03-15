@@ -6,10 +6,9 @@ name = "曾剑"
 portrait = "portraits/JianZeng.jpeg"
 short_bio = "博士研究生"
 title = "曾 剑"
-sort_position = 5
+sort_position = 4
 personal_website = ""
 cv_link = ""
-draft=true
 [[social]]
     icon = "envelope"
     icon_pack = "fa"

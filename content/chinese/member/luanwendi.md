@@ -6,7 +6,7 @@ name = "Wendi Luan"
 portrait = "portraits/luanwendi.jpeg"
 short_bio = "Senior UG"
 title = "Wendi Luan"
-sort_position = 6
+sort_position = 10
 personal_website = ""
 cv_link = ""
 [[social]]

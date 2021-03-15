@@ -6,7 +6,7 @@ name = "宁文韬"
 portrait = "portraits/ningwentao.jpg"
 short_bio = "博士生"
 title = "宁文韬"
-sort_position = 6
+sort_position = 9
 [[social]]
     icon = "envelope"
     icon_pack = "fa"

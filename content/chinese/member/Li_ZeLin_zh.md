@@ -6,7 +6,7 @@ name = "黎泽林"
 portrait = "portraits/lizelin.jpg"
 short_bio = "我是南方科技大学大四计算机系在读本科生,目前主要的研究方向是人脸图像超分辨率"
 title = "黎泽林"
-sort_position = 6
+sort_position = 9
 cv_link = ""
 [[social]]
     icon = "envelope"

@@ -6,7 +6,7 @@ name = "李可明"
 portrait = "portraits/likeming.jpg"
 short_bio = "硕士研究生"
 title = "Keming Li"
-sort_position = 9
+sort_position = 5
 personal_website = ""
 cv_link = ""
 [[social]]
@@ -31,7 +31,7 @@ cv_link = ""
 
 [[organizations]]
     name = "南方科技大学计算机科学与工程系"
-    role = "硕士研究生"
+    role = "研究生（南方科技大学）"
 
 +++
 李可明本科毕业于南方科技大学计算机科学与工程系， 曾在华为开发岗实习。

@@ -6,7 +6,7 @@ name = "张超祖"
 portrait = "portraits/chaozu.jpg"
 short_bio = "本科生"
 title = "张超祖"
-sort_position = 6
+sort_position = 9
 
 [[social]]
     icon = "envelope"

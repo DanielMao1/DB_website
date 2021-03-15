@@ -6,7 +6,7 @@ name = "李倩"
 portrait = "portraits/liqian.jpg"
 short_bio = ""
 title = "李倩"
-sort_position = 5
+sort_position = 6
 personal_website = ""
 cv_link = ""
 [[social]]
@@ -30,7 +30,7 @@ cv_link = ""
 
 [[organizations]]
     name = "计算机科学与工程系"
-    role = "学生"
+    role = "研究生（南方科技大学）"
 
 +++
 
